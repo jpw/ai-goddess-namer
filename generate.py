@@ -1,5 +1,5 @@
 from textgenrnn import textgenrnn
-t = textgenrnn('weights/textgenrnn_goddesses_10its.hdf5')
+t = textgenrnn('weights/textgenrnn_goddesses_40epochs.hdf5')
 generated_texts = t.generate(n=20, return_as_list=True, temperature=1.2)
 print(*generated_texts, sep = "\n") 
 

@@ -10,7 +10,7 @@ of the .hdf5 file generated.
 t=textgenrnn('weights/textgenrnn_weights.hdf5')
 """
 
-t.train_from_file('inputs/goddess-name-wordlist.txt', num_epochs=10)
+t.train_from_file('inputs/goddess-name-wordlist.txt', num_epochs=40)
 """
 num_epochs is how many times you’d like to process the file. The neural network gets better the longer 
 you let it study, so start with 2 or 5 to see how long that takes, and then go up from there.
