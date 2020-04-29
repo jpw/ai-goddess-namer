@@ -48,7 +48,7 @@ Now you should be good to go.
 
 It should output some debugging info from TensorFlow & textgenrnn, and then a list of new goddess names!
 
-Have a look at the source for more clues on how to have fun with the output.
+Have a look at the source for more clues on how to have fun with the output. The main fun-dial is the `temperature` setting: around 0.1 output is quite boring, while values over 1 get increasingly funky.
 
 Don't forget to `deactivate` the venv when done playing around.
 
