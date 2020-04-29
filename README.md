@@ -1,10 +1,8 @@
-# ai-tensorflow
+# ai-goddess-namer
 
-Just me messing around with [TensorFlow 2](https://www.tensorflow.org/).
+Just me messing around with [TensorFlow 2](https://www.tensorflow.org/) to generate goddess names based on the [Wikipedia List of goddesses](https://en.wikipedia.org/wiki/List_of_goddesses). Thanks Wikipedia!
 
-Based on [How to Train Your Own Neural Network](https://lifehacker.com/we-trained-an-ai-to-generate-lifehacker-headlines-1826616918) by [Beth Skwarecki](https://kinja.com/bethskw).
-
-What a lovely article. Thanks Beth!
+Based on [How to Train Your Own Neural Network](https://lifehacker.com/we-trained-an-ai-to-generate-lifehacker-headlines-1826616918) by [Beth Skwarecki](https://kinja.com/bethskw).  What a lovely article. Thanks Beth!
 
 ## Hello python, my old friend
 
@@ -61,4 +59,5 @@ Run the training:
 
 That will output a `.hdf5` file. Reference _that_ file in `generate.py` then run it:
 `python generate.py`
+
 
