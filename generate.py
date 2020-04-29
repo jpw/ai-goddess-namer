@@ -1,6 +1,6 @@
 from textgenrnn import textgenrnn
 t = textgenrnn('weights/textgenrnn_goddesses_10its.hdf5')
-generated_texts = t.generate(n=20, return_as_list=True, temperature=0.8)
+generated_texts = t.generate(n=20, return_as_list=True, temperature=1.2)
 print(*generated_texts, sep = "\n") 
 
 # Using generate_samples() is a great way to test the model at different temperatures.
