@@ -12,7 +12,9 @@ t=textgenrnn('weights/textgenrnn_weights.hdf5')
 
 t.train_from_file('inputs/goddess-name-wordlist.txt', num_epochs=5)
 """
-num_epochs is how many times you’d like to process the file. The neural network gets better the longer you let it study, so start with 2 or 5 to see how long that takes, and then go up from there.
+num_epochs is how many times you’d like to process the file. The neural network gets better the longer 
+you let it study, so start with 2 or 5 to see how long that takes, and then go up from there.
+It uses the default character-by-character model
 """
 
 """
