@@ -1,6 +1,11 @@
 from textgenrnn import textgenrnn
-t = textgenrnn('weights/textgenrnn_goddesses.hdf5')
-t.generate(20, temperature=1.5)
+t = textgenrnn('weights/textgenrnn_goddesses_10its.hdf5')
+generated_texts = t.generate(n=20, return_as_list=True, temperature=0.8)
+print(*generated_texts, sep = "\n") 
+
+# Using generate_samples() is a great way to test the model at different temperatures.
+# textgen.generate_samples()
+# https://github.com/minimaxir/textgenrnn/blob/master/docs/textgenrnn-demo.ipynb
 
 """
 20 = number of things
