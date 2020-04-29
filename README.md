@@ -25,12 +25,14 @@ then
 Once you've got your venv up and running:
 
  - `python -m pip install --upgrade pip`
+ - `python -m pip install setuptools --upgrade`
  - `python -m pip install --upgrade tensorflow`
- - if it moans about sensortools, then `python -m pip install setuptools --upgrade` and rerun the previous tensorflow install step.
     
 Check the TensorFlow install:
 
 `python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"`
+
+It should output... some stuff about tensorflow :joy:
 
 More info on installing TensorFlow can be found in the [TensorFlow install docs](https://www.tensorflow.org/install).
 
