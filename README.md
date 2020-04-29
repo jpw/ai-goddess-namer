@@ -1,13 +1,18 @@
 # ai-tensorflow
-messing around with tensorflow
+
+Just me messing around with [TensorFlow 2](https://www.tensorflow.org/).
 
 Based on [How to Train Your Own Neural Network](https://lifehacker.com/we-trained-an-ai-to-generate-lifehacker-headlines-1826616918) by [Beth Skwarecki](https://kinja.com/bethskw).
 
 What a lovely article. Thanks Beth!
 
-## hello python, my old friend
+## Hello python, my old friend
 
-`source env/bin/activate`
+You will need to set up a virtualenv.
+
+I used python3 and did this:
+ - `python3 -m venv --system-site-packages env`
+ - `source env/bin/activate`
 
 then
 
@@ -17,29 +22,37 @@ then
 
 `deactivate` when done.
 
-## prereqs
+## Prereqs
 
-    - `source env/bin/activate`
-    - `pip install --upgrade pip`
-    - `pip install --upgrade tensorflow` or, if you are having pip problems,
-    - `python -m pip install --upgrade tensorflow`
-    - if it moans about sensortools, then `python -m pip install setuptools --upgrade` and rerun the tensorflow install.
+Once you've got your venv up and running:
+
+ - `python -m pip install --upgrade pip`
+ - `python -m pip install --upgrade tensorflow`
+ - if it moans about sensortools, then `python -m pip install setuptools --upgrade` and rerun the previous tensorflow install step.
     
-Finally check the tensorflow install:
+Check the TensorFlow install:
 
 `python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"`
 
-Re-do the tensorflow install dance, but with `textgenrnn`.
+More info on installing TensorFlow can be found in the [TensorFlow install docs](https://www.tensorflow.org/install).
+
+Now install `textgenrnn`:
+
+ - `python -m pip install textgenrnn`
 
 Now you should be good to go.
 
-## running
+## Running
 
 `python generate.py`
 
 It should output some debugging info from TensorFlow & textgenrnn, and then a list of new goddess names!
 
-## generating your own text
+Have a look at the source for more clues on how to have fun with the output.
+
+Don't forget to `deactivate` the venv when done playing around.
+
+## Generating your own text
 
 First, train it. Reference your wordlist in the `train.py` script.
 
@@ -48,3 +61,4 @@ Run the training:
 
 That will output a `.hdf5` file. Reference _that_ file in `generate.py` then run it:
 `python generate.py`
+
