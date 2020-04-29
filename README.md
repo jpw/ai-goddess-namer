@@ -16,9 +16,7 @@ then
 
 `which python`
 
-..should point at the python interpreter in the env dir.
-
-`deactivate` when done.
+…should point at the python interpreter in the env dir.
 
 ## Prereqs
 
