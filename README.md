@@ -25,5 +25,6 @@ Finally check the tensorflow install:
 
 `python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"`
 
-Re-do the tensorflow install dance, but with `textgenrnn`
+Re-do the tensorflow install dance, but with `textgenrnn`.
+
 

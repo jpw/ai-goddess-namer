@@ -1,3174 +1,594 @@
-Dhat-Badan
-Atete
-Asase Ya
-Asaase Afua
-Asaase Yaa
-Asase Yaa
-Kianda
-Kuanja
-Nagadya
-Nagawonyi
-Emotan
-Ayaba
-Gleti
-Mawu
-Nana Buluku
-Akonadi
-Ashiakle
-Ahia Njoku
-Ala
-Mbokomu
-Kaikara
-Lubanga
-Mulindwa
-Dzivaguru
-Bunzi
-Aja
-Aje
-Ayao
-Egungun-oya
-Iyami Aje
-Oba
-Olokun
-Orisa Oluwa
-Oshun
-Oya
-Ọya-Iyansan
-Queen Oronsen
-Velekete
-Yemoja
-Inkosikazi
-Mamlambo
-Mbaba Mwana Waresa
-Nomkhubulwane
-Usiququmadevu
+A-a
+A'akuluujjusi
+Aaghu Gugu
+Ab
+Aba-Khatun
+Abeguwo
+Abeona
+Abere
+Abet
+Abhijit
+Abhimukhi
+Abkai Hehe
+Abnoba
+Abohli
+Abtet
 Abuk
-Arawa
-Seta
-Topoh
-Olapa
-Nambi
-Buk
+Abundantia
+Abyang
+Abyang Durunuun
+Acala
+Acca Larentia
+Acchupta
+Aceso
+Achelois
+Achi Chokyi Drolma
+Achlys
+Achos
+Acionna
 Acol
-Diang
-Nayakaya
-Isa
-Issa
-Ayao
-Iansã
-Iyá Mésàn
-Oiá
-Nanã
-Nana Burukú
-Yemanjá
-Iemanjá
-Iansã
-Iemanjá
-Nanã
-Oxúm
-Yemayá
-Mami Wata
-Mawu
-Yemoja
-Anaisa Pye
-Anaisa La Chiquita
-Anaisa Pie
-Anaisa Pie Danto
-Filomena
-Metresili
+Acpaxapo
+Acte
+Adarateja
+Adastreia
+Adeona
+Adephagia
+Adgilis Deda
+Adgilis Ghvtismshobeli
+Adhimukticarya
+Adhimuktivasita
+Adi Lakshmi
+Adi Parashakti
+Adi-mailagu
+Adidharma
+Adikia
+Adishakti
+Aditi
 Adjassou-Linguetor
-Ayida-Weddo
+Adrastea
+Adrasteia
+Adrastia
+Adrestea
+Adrestia
+Adsullata
+Aegiale
+Aegle
+Aequitas
+Aergia
+Aeschyne
+Aeternitas
+Afri
+Africa
+Afrika
+Ag-aganney
+Agasaya
+Agemem
+Agenoria
+Aglaea
+Aglaïa
+Agneya
+Agrona
+Ahemait
+Ahia Njoku
+Ahol Mana
+Ahrishwang
+Ahti
+Ahurani
+Ai-tupuai
+Aiätär
+Äiatar
 Aida-Weddo
+Aide
 Aido Hwedo
 Aido Quedo
-Ayida-Wedo
-Aido Quedo
-Ayizan
-Erzulie
-Erzili
-Ezili
-La Baliene
-La Sirène
-Mademoiselle Charlotte
-Maîtresse Délai
-Maîtresse Hounon'gon
-Maman Brigitte
-Gran Brigitte
-Grann Brigitte
-Maman Brijit
-Manman
-Manman Brigit
-Marinette
-Marinette Bras Cheche
-Marinette Pied Cheche
-Hasinaw-uk-kamuy
-Isosange Mat
-Kamuy Paseguru
-Kamuy-huci
-Apemerukoyan-mat Unamerukoyan-mat
-Iresu Kamuy
-Kanna Kamuy
-Kenas-unarpe
-Tokapcup-kamuy
-Waka-ush Kamuy
-Petorush Mat
-Yushkep Kamuy
-Ashketanne Mat
-E Bukura e Dheut
-Prende
-Zonja e Bukuris
-Al-Lat
-Alilat
-Allat
-Al-‘Uzzá
-Manaf
-Manāt
-Nā'ila
-Nuha
-Shams
-Suwa'
-Chaabou
-Kaabu
-Dhat-Badan
-Anahit
-Anaitis
-Astghik
-Astɫik
-Bagmasti
-Nane
-Hane
-Hanea
-Nana
-Nanai
-Saris
-Spandaramet
-Sandaramet
-Tsovinar
-Nar
-Arubani
-Bagvarti
-Bagbartu
-Bagmashtu
-Bagparti
-Huba
-Selardi
-Tushpuea
-Anjea
-Eingana
-Kunapipi
-Wala
-Wuriupranili
-Bila
-Birrahgnooloo
-Yhi
-Dilga
-Gnowee
-Karatgurk
-Djanggawul
-Julunggul
-Percunatele
-Bangu māte
-Cela māte
-Darzamāte
-Dēkla
-Dēkla māte
-Gausu māte
-Jūras māte
-Kapu māte
-Kārta
-Kārta māte
-Krumu māte
-Laima
-Lapu māte
-Lauka māte
-Lauku māte
-Lauma
-Lazdu māte
-Lietus māte
-Linu māte
-Lopes māte
-Lopu māte
-Māra
-Lopu Marija
-Lopu māte
-Māre
-Mārīte
-Mārša
-Māršava
-Piena māte
-Mēness
-Meza māte
-Mieza māte
-Miglas māte
-Pirta māte
-Saule
-Senu māte
-Smilšu māte
-Sniega māte
-Tirgus māte
-Ūdens māte
-Upes māte
-Veja māte
-Veļu māte
-Zemes māte
-Ziedu māte
-Ziemala mamulina
-Alabatis
-Audėja
-Aušra
-Aušrinė
-Austėja
-Bezelea
-Birutė
-Budtė
-Dalia
-Dugnė
-Gabija
-Moterų Gabija
-Pelenų Gabija
-Gabjauja
-Gadintoja
-Giltinė
-Kaulinyčia
-Maras
-Pavietrė
-Gondu
-Indraja
-Išskalbėja
-Junda
-Krūminė
-Kruonis
-Lada
-Laima
-Laimė
-Laumė
-Lazdona
-Lietuva
-Luobo gelda
-Lajbegelda
-Medeina
-Medziojna
-Žvoruna
-Mėnuo
-Mėšlų boba
-Metančioji
-Milda
-Mokienė
-Morė
-Neris
-Nijolė
-Nukirpėja
-Pajauta
-Perkūnaitėlė
-Pergrubė
-Pilvytė
-Praurimė
-Ragana
-Ragutiene Pati
-Rasa
-Ratainyčia
-Saulė
-Sėlija
-Sergėtoja
-Upinė
-Užsparinė
-Vaivora
-Vakarinė
-Brėkšta
-Vakarė
-Valginė
-Veliuona
-Verpiančioji
-Verpėja
-Žemės Motina
-Žemyna
-Žiezdrė
-Laima
-Saule
-Semine
-Aide
-Ekhi
-Ilargi
-Lurbira
-Mari
-Afri
-Afrika
-Lamia
-Libya
-Nanna Tala
-Shaheded
-Tanit
-Tinjis
-Moneiba
-Chaxiraxi
-Magec
-Ajaya
-Citrasena
-Dhanada
-Dhupatara
-Dhvajagrakeyura
-Dipatara
-Durjaya
-Gandha Tara
-Grahamatrka
-Hariti
-Janguli
-Jayatara
-Jnanadakini
-Kaladuti
-Kamini
-Kapalini
-Karini
-Kesini
-Kṣitigarbha
-Kulisesvari
-Tara
-Arya Tara
-Adhimukticarya
-Bhumis
-Abhimukhi
-Acala
-Arcismati
-Dharmamegha
-Durumgama
-Prabhakari
-Pramudita
-Sadhumati
-Sudurjaya
-Vimala
-Abhimukhi
-Acala
-Arcismati
-Dharmamegha
-Durumgama
-Prabhakari
-Pramudita
-Sadhumati
-Sudurjaya
-Vimala
-Buddhalocana
-Buddhalochana
-Chinnamunda
-Ekajati
-Grdhrasya
-Jnanaparamita
-Kakasya
-Kotisri
-Pratisamvits
-Arthapratisamvit
-Dharmapratisamvit
-Arthapratisamvit
-Dharmapratisamvit
-Tara
-Arya Tara
-Vasitas
-Adhimuktivasita
-Ayurvasita
-Buddhabodhiprabhavasita
-Cittavasita
-Dharmavasita
-Jnanavasita
-Karmavasita
-Adhimuktivasita
-Ayurvasita
-Buddhabodhiprabhavasita
-Cittavasita
-Dharmavasita
-Jnanavasita
-Karmavasita
-Adidharma
-Achi Chokyi Drolma
-Bhrkuti-Tara
-Cauri
-Chenrézik
-Cunda
-Dhupa
-Digambara
-Dipa
-Düza Minkar
-Gandha
-Gita
-Khen-Ma
-Kurukullā
-Rigbyedma
-Jetsun Dölma
-Mandarava
-Nairatmya
-Palden Lhamo
-Samding Dorje Phagmo
-Tenma goddesses
-Töngyi Gyalmo
-Hemantadevi
-Tummo
-Caṇḍālī
-Yeshe Tsogyal
-Kumari
-Lakshmi
-Marici
-Narodakini
-Prajnaparamita
-Samantabhadrī
-Sitatapatra
-Usnisavijaya
-Vajrayogini
-Vasudhara
-Yakshini
-Anauk Mibaya
-Bago Medaw
-Hnamadawgyi
-Htibyuhsaung Medaw
-Kwan Yin Medaw
-Ma Ngwe Taung
-Medaw Shwezaga
-Mya Nan Nwe
-Myaukhpet Shinma
-Popa Medaw
-Shin Nemi
-Shingon
-Shingwa
-Shwe Nabay
-Thonbanhla
-Wathondara
-Wathondare
-Preah Mae Kun Ci Iem
-Preah Thorani
-Agrona
-Alaisiagae
-Beda
-Boudihillia
-Beda
-Boudihillia
-Ancasta
-Andraste
-Andrasta
-Arnemetia
-Brigantia
-Britannia
-Clota
-Coventina
-Epona
-Iouga
-Korrigan
-Latis
-Ricagambeda
-Satiada
-Senuna
-Suleviae
-Sulis
-Verbeia
-Epane
-Mater Deva
-Bandua
-Hamavehae
-Nabia
-Abnoba
-Acionna
-Adsullata
-Ancamna
-Andarta
-Annea Clivana
-Arduinna
-Artio
-Aveta
-Belenus
-Belenos
-Belinus
-Bel
-Beli Mawr
-Bergusia
-Bormana
-Bricta
-Brigantia
-Cathubodua
-Damona
-Dea Matrona
-Divona
-Epona
-Erecura
-Esus
-Gontia
-Ianuaria
-Icauna
-Icovellauna
-Inciona
-Matronae Aufaniae
-Nantosuelta
-Naria
-Nemetona
-Onuava
-Ritona
-Rosmerta
-Sequana
-Sirona
-Souconna
-Suleviae
-Taranis
-Toutatis
-Teutates
-Xulsigiae
-Gaillimh inion Breasail
-Tailtiu
-Tailte
-Cethlenn
-Cethleann
-Ethniu
-Eithne
+Aidos
+Aigeiros
+Aijotar
+Ailsie
+Ailuros
 Aimend
-Medb
-Méabh
-Meaḋḃ
-Meadhbh
-Medb Lethderg
-Mongfind
-Mongfhionn
-Mór Muman
-Mór Mhumhan
-Mór Mumain
-Tlachtga
+Aindri
 Áine
+Ainina
 Airmed
 Airmid
-Anu
-Ana
-Anand
-Anann
-Banba
-Banbha
-Bé Chuille
-Bé Chuma
-Becuille
-Beag
-Bec
-Bébinn
-Bébhinn
-Boann
-Boand
-Bóinn
-Brigid
-Brig
-Brigit
-Clíodhna
-Clídna
-Clíodna
-Clíona
-Clionadh
-Danu
-Dana
-Ériu
-Éire
-Ernmas
-Étaín
-Éadaoin
-Édaín
-Fand
-Fann
-Flidais
-Flidas
-Fliodhais
-Fliodhas
-Fódla
-Fódhla
-Fóla
-Fótla
-Fuamnach
-Lí Ban
-The Morrígan
-Badb
-Badb Catha
-Badhbh
-Macha
-Nemain
-Badb
-Badb Catha
-Badhbh
-Macha
-Nemain
-Crobh Dearg
-Drob Derg
-Beira
-Cailleach
-Cailleach Bheur
-Momu
-Arianrhod
-Branwen
-Ceridwen
-Creiddylad
-Creirwy
-Cyhyraeth
-Cymidei Cymeinfoll
-Dôn
-Modron
-Murigen
-Penarddun
-Rhiannon
-Pajau Yan
-Po Yan Dari
-Yan Po Nagar
-Bai Mudan
-Canmu
-Cangu
-Cangu Nainai
-Leizu
-Xi Lingshi
-Chang'e
-Changxi
-Chuangmu
-Daji
-Doumu
-Feng popo
-Guanyin
-Gun Yam
-Gwun Yam
-Kuan Im
-Kuan Se Im
-Kun Lam
-Kwun Yam
-He Xiangu
-Houtu
-Hua Mulan
-Huang Daopo
-Jiang Yuan
-Jingwei
-Lan Caihe
-Leizi
-Dianmu
-Jinguang Shengmu
-Li Ye
-Li Jilan
-Longmu
-Longnü
-Magu
-Mazu
-Meng Jian Nü
-Meng Po
-Mu Guiying
-Nüba
-Ba
-Nüwa
-Pan Jinlian
-Qin Liangyu
-Qiu Jin
-Shuimu
-Shuiwei Shengniang
-Songzi Niangniang
-Sun Bu'er
-Wei Huacun
-Wusheng Laomu
-Xi Shi
-Xian Furen
-Lingnan Shengmu
-Xiangshuishen
-E Huang
-Nu Ying
-E Huang
-Nu Ying
-Xihe
-Xiwangmu
-Jinmu Yuanjun
-Wangmu Niangniang
-Yaochi Jinmu
-Yu Xuanji
-Zhinü
-Zhunti
-Zhuntu Fomu
-Zhunti Pusa
-Charmo Vetr
-Dizane
-Dezalik
-Disni
-Ḍizálik
-Jestak
-Jēṣṭak
-Krumai
-Saranji
-Disani
-Lunang
-Nirmali
-Prakde
-Kshumai
-Kime
-Zhiwud
-Ahti
+Aisa
+Aishwarya Lakshmi
+Aja
+Ajatar
+Ajattara
+Ajaya
+Aje
+Ak Ana
+Akaru-hime
+Akhilāṇḑeśvarī
+Akhushtal
+Akilandeswari
+Akinagatarashi-hime
+Akka
+Akna
+Akodau
+Akonadi
+Akte
+Akycha
+Al-‘Uzzá
+Al-Lat
+Ala
+Alabatis
+Alaisiagae
+Alakshmi
+Alala
+Alamelu
+Alamelu manga
+Albina
+Alcyone
+Alecto
+Alectrona
+Alemona
+Alemonia
+Algea
+Alilat
+Alindodoay
+Allat
+Allatu
+Allatum
+Almoshi
+Alokotán
+Alovai
+Alpan
+Alpanu
+Alpnu
+Áłtsé Asdzáán
+Alunsina
+Ama-arhus
+Amamikyu
+Amanozako
+Amašagnul
+Amat-Ama-arhus
+Amaterasu
+Amaterasu-ōmikami
 Amathaunta
+Amaunet
+Amazake-babaa
+Ambika
+Ambikā
+Ambikā Devī
+Ame-no-Mikumari-no-kami
+Ame-no-tanabata-hime
+Ame-no-Toyotarashikara-hime
+Ame-no-Uzume
+Amechania
+Amekhania
 Ament
 Amentet
+Ameretat
 Ảmi-khent-āat
 Ảmi-pet-seshem-neterit
 Ảmi-urt
 Ảmi-utchat-sảakhu-Ảtemt
 Ảmit-Qeţem
 Ảmit-she-t-urt
+Ammavaru
 Ammit
-Ahemait
 Ammut
 Amn
-Amunet
-Amaunet
-Anat
-Anant
-Anit
-Anti
-Antit
-Anhefta
-Anput
-Anuput
-Inpewt
-Input
-Yineput
-Anqet
-Anta
-Antd
-Anuke
-Anuket
-Anaka
-Anqet
-Anukis
-Apet
-Āpertra
-Ảrit-ȧakhu
-Ảriti
-Arsinoe II
-Astarte
-Ausaas
-Ba-khati
-Ba'alat Gebal
-Baiut-s-ảmiu-heh
-Bastet
-Ailuros
-Baast
-Baset
-Bast
-B'sst
-Ubaste
-Bat
-Besna
-Esna
-Eye of Ra
-Hetepes-Sekhus
-Hauhet
-Hathor
-Hatmehit
-Hatmehyt
-Hawit-Mahuyat
-Ḥebit
-Hedetet
-Hedjedjet
-Hemsut
-Hemuset
-Heptet
-Heqet
-Heket
-Heqtit
-Heret-Kau
-Heret
-Hert-ketit-s
-Hert-Nemmat-Set
-Hert-sefu-s
-Heru-pa-kaut
-Hesat
-Heset
-Hetemit
-Horea
-Ḥunit
-Ḥunit Pe
-Ḥunit urit
-Ḥuntheth
-Ḥurit urit
-Iabet
-Ab
-Abet
-Abtet
-Iab
-Iabtet
-Iat
-Imentet
-Ament
-Amentet
-Imentit
-Ipy
-Isis
-Aset
-Ese
-Eset
-Iunit
-Iusaaset
-Iusaas
-Saosis
-Iw
-Kauket
-Kebechet
-Kabechet
-Kabehchet
-Kebehut
-Kebehwet
-Khebhut
-Qebehut
-Ken
-Khefthernebes
-Khensit
-Chensit
-Maa-ā
-Maa-neter-s
-Maat
-Ma'at
-Mafdet
-Maftet
-Matit
-Medjed
-Mehet-Weret
-Mehit
-Mehyt
-Mekhit
-Menhit
-Menchit
-Meret
-Mert
-Meretseger
-Mertseger
-Merit
-Meskhenet
-Mesenet
-Meshkent
-Meskhent
-Mut
-Maut
-Mout
-Nakith
-Neb Ȧa-t
-Nebt Ȧa-t
-Neb Ȧa-t-Then
-Nebt Ȧa-t-Then
-Neb āāu
-Nebt āāu
-Neb-ābui
-Nebt-ābui
-Neb ȧkeb
-Nebt ȧkeb
-Neb Ȧnit
-Nebt Ȧnit
-Neb ảri-t-qerr-t
-Nebt ȧri-t-qerr-t
-Neb ảrit-tcheṭflu
-Neb ảs-ḥatt
-Neb ȧs-ur
-Nebt ȧs-ur
-Neb Ȧter
-Nebt Ȧter-Meḥ
-Neb ȧter-Shemā
-Nebt ȧter-Shemā
-Neb au-t-ȧb
-Neb ảur
-Nebt ảur
-Neb Aut
-Neb-t Aut
-Neb Bȧa-t
-Nebt Bȧa-t
-Neb ḥekau
-Nebt ḥekau
-Neb ḥetep
-Nebt ḥetep
-Neb Khasa
-Nebt Khasa
-Neb Khebit
-Nebt Khebit
-Neb peḥti
-Nebt peḥti
-Neb Per-res
-Nebt Per-res
-Neb petti
-Nebt petti
-Neb Sa
-Nebt Sa
-Neb Sam
-Nebt Sam
-Neb sau-ta
-Nebt sau-ta
-Neb sebu
-Nebt sebu
-Neb Septi
-Nebt Septi
-Neb Un
-Nebt Un
-Neb-t ȧakhu
-Neb-t ȧnemit
-Neb-t ānkh
-Neb-t ānkhiu
-Neb-t Ảţu
-Neb-t au-t-ȧb
-Neb-t Kheper
-Neb-t usha
-Nebethetepet
-Nebt Ānnu
-Nebt-Ankhiu
-Nebt-Khu
-Nebt-Mat
-Nebt-Setau
-Nebt-Shat
-Nebt-Shefshefet
-Nebtu
-Nebtuwi
-Nefertȧry
-Nehmetawy
-Neith
-Neit
-Net
-Nit
-Nekhbet
-Nephthys
-Neber-Het
-Nebthet
-Neper
-Nepra
-Nepri
-Neterit-nekhenit-Rā
-Netrit fent
-Nu
-Naunet
-Nut
-Naunet
-Nenet
-Nuit
-Nunut
-Qetesh
-Pakhet
-Pachet
-Pasht
-Pehkhet
-Phastet
-Pelican
-Perit
-Pesi
-Qebhet
-Qererti
-Qerhet
-Qetesh
-Qudshu
-Raet-Tawy
-Raet
-Rekhit
-Renenutet
-Ernutet
-Renetet
-Renpet
-Repyt
-Sait
-Satis
-Satet
-Sekhmet
-Sachmis
-Sakhet
-Sakhmet
-Sekhet
-Sefkhet-Abwy
-Sehith
-Sekhat-Hor
-Sekhet-Metu
-Seret
-Serket
-Selcis
-Selket
-Selqet
-Serqet
-Sesenet-Khu
-Seshat
-Safekh-Aubi
-Shemat-Khu
-Shentayet
-Shenty
-Shesmetet
-Shesemtet
-Shesmet
-Smithis
-Sopdet
-Sepedet
-Sothis
-Swenet
-Ta-Bitjet
-Ta-Sent-Nefert
-Tafner
-Taweret
-Taouris
-Taueret
-Taurt
-Tawaret
-Ta-weret
-Thoeris
-Thouéris
-Toeris
-Tuart
-Tuat
-Twert
-Tayt
-Tait
-Tayet
-Taytet
-Tefnut
-Tefnet
-Temet
-Temtith
-Tenenet
-Tanenet
-Tenenit
-Tjenenet
-Zenenet
-Themath
-Thermuthis
-Thmei
-Tjenenyet
-Tjenmyt
-Un-baiusit
-Unt-baiusit
-Unnit
-Unnuit
-Unut
-Unet
-Wenet
-Wenut
-Upit
-Ur-ā
-Urit
-Urit-ȧmi-t-Ṭuat
-Urit-em-sekhemu-s
-Urit-en-kru
-Urit-ḥekau
-Urti-ḥethati
-Usit
-Wadjet
-Buto
-Uadjet
-Udjo
-Uto
-Wedjat
-Wepset
-Werethekau
-Urit-hekau
-Urthekau
-Weret Hekau
-Wosret
-Wasret
-Wosyet
-Albina
-Alpanu
-Alpan
-Alpnu
-Areatha
-Artume
-Aritimi
-Artumes
-Athrpa
-Calaina
-Catha
-Cath
-Cavtha
-Cel
-Cerca
-Culsu
-Elinei
-Elina
-Elinai
-Enie
-Eris
-Ethausva
-Eth
-Euturpa
-Feronia
-Horta
-Ilithiia
-Lasa
-Latva
-Leinth
-Letham
-Leta
-Letha
-Lethms
-Lethns
-Letun
-Losna
-Mania
-Mean
-Meanpe
-Menrva
-Metaia
-Metua
-Metvia
-Metus
-Munthukh
-Nurtia
-Pemphetru
-Persipnei
-Ferspnai
-Phersipnai
-Phersipnei
-Proserpnai
-Semla
-Thalna
-Thesan
-Thethis
-Tiur
-Tiv
-Tivr
-Turan
-Uni
-Vanth
-Vegoia
-Begoe
-Bigois
-Lasa Vecuvia
-Vecu
-Vecui
-Vecuvia
-Vesuna
-Ainina
-Barbale
-Dali
-Danina
-Danana
-Kamar
-Lamara
-Mindort-brdzanebeli
-Tamar
-Adgilis Deda
-Adgilis Ghvtismshobeli
-Samdzimar
-Tkashi-Mapa
-Tskarishdida
-Dæl
-Lamaria
-Ēostre
-Fimmilena
-Friagabis
-Frig
-Hrêða
-Idis
-Wyrd
-Fraujō
-Frijjō
-Frija
-Hariasa
-Hludana
-Holda
-Nerþuz
-Ostara
-Sinthgunt
-Sunna
-Sowilō
-Tamfana
-Volla
-Fullō
-Zisa
-Garmangabis
-Perchta
-Baduhenna
-Freke
-Nehalennia
-Sandraudiga
-Vagdavercustis
-Wurdiz
-Frea
-Astrild
-Eir
-Frigg
-Fulla
-Gefjon
-Gerðr
-Gná
-Hlín
-Iðunn
-Ilmr
-Irpa
-Lofn
-Nanna
-Nine Mothers of Heimdallr
-Angeyja
-Atla
-Eistla
-Eyrgjafa
-Imðr
-Imð
-Angeyja
-Atla
-Eistla
-Eyrgjafa
-Imðr
-Imð
-Ulfrún
-Njörun
-Rán
-Rindr
-Sága
-Sif
-Sigyn
-Sjöfn
-Snotra
-Sól
-Syn
-Þorgerðr
-Þrúðr
-Vár
-Vör
-Angrboða
-Angrboda
-Iárnvidia
-Aurboða
-Bestla
-Gjálp
-Greip
-Hel
-Járnsaxa
-Jörð
-Fjörgyn
-Hlóðyn
-Iord
-Jarð
-Jord
-Jorth
-Laufey
-Nál
-Nine Daughters of Ægir and Rán
-Blóðughadda
-Bylgja
-Dröfn
-Bára
-Dúfa
-Hefring
-Hevring
-Himinglæva
-Hrönn
-Kólga
-Uðr
-Unn
-Blóðughadda
-Bylgja
-Dröfn
-Bára
-Dúfa
-Hefring
-Hevring
-Himinglæva
-Hrönn
-Kólga
-Uðr
-Unn
-Skaði
-Þökk
-Freyja
-Freja
-Freya
-Freyia
-Gersemi
-Gullveig
-Heiðr
-Hnoss
-Skuld
-Urðr
-Verðandi
-Brynhildr
-Hildr
-Sigrdrífa
-Eir
-Geirahöð
-Geiravör
-Geirdriful
-Geirönul
-Geirölul
-Geirömul
-Geirrönul
-Geirskögul*
-Göll
-Göndul
-Gunnr
-Guðr
-Herfjötur
-Herja
-Hervör alvitr
-Hjalmþrimul
-Hjörþrimul
-Hlaðguðr svanhvít
-Hlökk
-Hrist
-Hrund
-Kára
-Mist
-Ölrún
-Ráðgríðr
-Randgríðr
-Randgrid
-Reginleif
-Róta
-Sanngriðr
-Sigrún
-Skalmöld
-Skeggöld
-Skeggjöld
-Skögul
-Skuld
-Sváfa
-Sveið
-Svipul
-Þögn
-Þrima
-Þrúðr
-Beyla
-Dís
-Elli
-Móðguðr
-Nótt
-Röskva
-Aceso
-Achelois
-Achlys
-Adephagia
-Adikia
-Adrasteia
-Adastreia
-Adrastea
-Adrastia
-Adrestea
-Adrestia
-Aegiale
-Aegle
-Aergia
-Aidos
-Aeschyne
-Alala
-Alcyone
-Αlkuónē
-Algea
-Achos
-Ania
-Lupe
-Achos
-Ania
-Lupe
-Amechania
-Amekhania
+Amordad
+Ampelos
 Amphictyonis
 Amphillogiai
 Amphitrite
-Anaideia
-Ananke
-Androktasiai
-Angelia
-Angelos
-Angelia
-Antheia
-Aoide
-Apate
-Aphaea
-Aphrodite
-Apollonis
-Aporia
-Arae
-Arche
-Arete
-Arke
-Artemis
-Asteria
-Astraea
-Astrape
-Atë
-Athena
-Aura
-Baubo
-Benthesikyme
-Bia
-Borysthenis
-Brimo
-Brizo
-Bronte
-Calliope
-Calypso
-Carme
-Caryatis
-Celaeno
-Cephisso
-Ceto
-Charites
-Aglaea
-Aglaïa
-Charis
-Euphrosyne
-Kale
-Cale
-Calleis
-Kalleis
-Thalia
-Grace
-Aglaea
-Aglaïa
-Charis
-Euphrosyne
-Kale
-Cale
-Calleis
-Kalleis
-Thalia
-Grace
-Chione
-Chrysothemis
-Circe
-Cleta
-Clio
-Cybele
-Daphne
-Demeter
-Sito
-Thesmophoros
-Despoina
-Dia
-Dindymene
-Dione
-Doris
-Dryad
-Atlanteia
-Dryope
-Epimeliad
-Epimēlides
-Erato
-dryad
-Eurydice
-Hamadryad
-Aigeiros
-Ampelos
-Balanos
-Balanus
-Chrysopeleia
-Karya
-Carya
-Kraneia
-Morea
-Ptelea
-Syke
-Meliae
-Oread
-Claea
-Cyllene
-Daphnis
-Echo
-Nomia
-Othreis
-Pitys
-Sinoe
-Sphragitides
-Cithaeronides
-Phigalia
-Phoebe
-Atlanteia
-Dryope
-Epimeliad
-Epimēlides
-Erato
-dryad
-Eurydice
-Hamadryad
-Aigeiros
-Ampelos
-Balanos
-Balanus
-Chrysopeleia
-Karya
-Carya
-Kraneia
-Morea
-Ptelea
-Syke
-Aigeiros
-Ampelos
-Balanos
-Balanus
-Chrysopeleia
-Karya
-Carya
-Kraneia
-Morea
-Ptelea
-Syke
-Meliae
-Oread
-Claea
-Cyllene
-Daphnis
-Echo
-Nomia
-Othreis
-Pitys
-Sinoe
-Sphragitides
-Cithaeronides
-Claea
-Cyllene
-Daphnis
-Echo
-Nomia
-Othreis
-Pitys
-Sinoe
-Sphragitides
-Cithaeronides
-Phigalia
-Phoebe
-Dysnomia
-Dyssebeia
-Eileithyia
-Eiresione
-Ekecheiria
-Electra
-Pleiad
-Electryone
-Alectrona
-Eleutheria
-Elpis
-Enodia
-Enyo
-Eos
-Epione
-Erato
-Erinyes
-Alecto
-Megaera
-Tisiphone
-Alecto
-Megaera
-Tisiphone
-Eris
-Ersa
-Eucleia
-Eukarpia
-Eunostus
-Eupheme
-Euporie
-Eupraxia
-Eurydome
-Eurynome
-Euterpe
-Euthenia
-Gaia
-Galene
-Graeae
-Hamadryas
-Harmonia
-Hebe
-Hecate
-Hegemone
-Heimarmene
-Heliades
-Hemera
-Hera
-Hesperis
-Hestia
-Hippeia
-Homonoia
-Horae
-Akte
-Acte
-Cypris
-Anatole
-Anatolia
-Arktos
-Arctus
-Auge
-Auxo
-Auco
-Auxesia
-Carpo
-Carphos
-Xarpo
-Cheimon
-Damia
-Dike
-Dysis
-Eiar
-Eirene
-Elete
-Eunomia
-Euporie
-Euporia]]
-Gymnastike
-Gymnasia
-Gymnastica
-Hesperis
-Mesembria
-Mousike
-Musica
-Nymphe
-Nympha
-Pherusa
-Phthinoporon
-Sponde
-Thallo
-Thalatte
-Theros
-Akte
-Acte
-Cypris
-Anatole
-Anatolia
-Arktos
-Arctus
-Auge
-Auxo
-Auco
-Auxesia
-Carpo
-Carphos
-Xarpo
-Cheimon
-Damia
-Dike
-Dysis
-Eiar
-Eirene
-Elete
-Eunomia
-Euporie
-Euporia]]
-Gymnastike
-Gymnasia
-Gymnastica
-Hesperis
-Mesembria
-Mousike
-Musica
-Nymphe
-Nympha
-Pherusa
-Phthinoporon
-Sponde
-Thallo
-Thalatte
-Theros
-Horme
-Hygieia
-Hypate
-Hysminai
-Ialysos
-Iaso
-Ichnaea
-Idyia
-Iris
-Kakia
-Kalligeneia
-Kallone
-Kamira
-Keres
-Kourotrophos
-Kotys
-Lampad
-Lampetia
-Lampsace
-Lethe
-Leto
-Libya
-Limos
-Litae
-Lyssa
-Macaria
-Machai
-Maia
-Maniae
-Melete
-Melinoë
-Melpomene
-Mene
-Merope
-Pleiades
-Mese
-Metis
-Mneme
-Mnemosyne
-Moirai
-Atropos
-Aisa
-Clotho
-Lachesis
-Atropos
-Aisa
-Clotho
-Lachesis
-Mycene
-Nemesis
-Nephele
-Nesoi
-Nete
-Nike
-Nyx
-Oenotropae
-Oizys
-Palioxis
-Pallas
-Panacea
-Pandia
-Pasikrata
-Pasiphaë
-Pasithea
-Peitharchia
-Peitho
-Penia
-Pepromene
-Persephone
-Kore
-Phaenna
-Pheme
-Pherusa
-Philophrosyne
-Philotes
-Phoebe
-Phrike
-Pistis
-Planē
-Poena
-Polyhymnia
-Potamides
-Potnia Theron
-Praxidike
-Proioxis
-Prophasis
-Ptocheia
-Rhapso
-Rhea
-Rhodos
-Salmacis
-Selene
-Sterope
-Pleiad
-Taygete
-Terpsichore
-Thalia
-nymph
-Thalia
-Muse
-Thebe
-Theia
-Thelxinoë
-Themis
-Thetis
-Tritonis
-Tyche
-Urania
-Ma
-Ariadne
-Britomartis
-Dictynna
-Idaeae
-Adrasteia
-Cynosura
-Helike
-Ida
-Oenone
-Adrasteia
-Cynosura
-Helike
-Ida
-Oenone
-Poppy goddess
-Snake Goddess
-Adarateja
-Artemitos
-Artemitei
-Atemito
-Atimite
-Athana Potnia
-Atana Potinija
-Diwia
-Doqeia
-Eleuthia
-Ereutija]]
-Erewijo Potinija
-Erinu
-Erinuwe
-Era
-Iphemedeia
-Ipemedeja
-Komawenteia
-Komaweteja
-Ma-ga
-Maga
-Manasa
-Mater Theia
-Matere Teija
-Newopejo Potinija
-Pipituna
-Potinija Asiwija
-Potnia Hippeia
-Potinija Iqeja
-Potnia of the Labyrinth
-Dapuritojo Potinija
-Potnia of Sitos
-Sito Potinija
-Potnia of Thebes
-Potinija Wokode
-Preswa
-Pereswa
-Qerasia
-Qerasija
-Qowia
-Qowija
-Upojo Potinija
-Aditi
-Apsaras
-Aranyani
-Bhūmi
-Bhumidevi
-Danu
-Diti
-Ila
-Idā
-Khasa
-Nirṛti
-Radha
-Saranyu
-Saraswati
-Bharati
-Hotr
-Hotra
-Bharati
-Hotr
-Hotra
-Shachi
-Aindri
-Indrani
-Mahendri
-Poulomi
-Pulomaja
-Agneya
-Alakshmi
-Anasuya
-Anusuya
-Anumati
-Arundhati
-Ashokasundari
-Bala Tripurasundari
-Bālā Tripurasundarī
-Kumārikā
-Bala Tripurasundari
-Bālā Tripurasundarī
-Kumārikā
-Asvayujau
-Bhadra
-Buddhi
-Chhaya
-Chaya
-Devaki
-Devasena
-Devi
-Dhumavati
-Dhumavati
-Dhumorna
-Diksa
-Diksha
-Dipti
-Disa
-Ganga
-Ganga Devi
-Gulsilia Mata
-Hariti
-Harsa
-Indukari
-Issaki
-Kadru
-Kali
-Kālarātri
-Kālikā
-Kankar Mata
-Kanti
-Karttiki
-Kaumari
-Kartikeyani
-Kumari
-Kaumudi
-Kirti
-Kollapura Mahalakshmi
-Ksama
-Kshama
-Kubuddhi
-MahaLakshmi
-Alamelu
-Alamelu manga
-Padmavati
-Ashta Lakshmi
-Adi Lakshmi
-Maha Lakshmi
-Aishwarya Lakshmi
-Dhana Lakshmi
-Dhanya Lakshmi
-Gaja Lakshmi
-Jaya Lakshmi
-Vijaya Lakshmi
-Raja Lakshmi
-Rajya Lakshmi
-Santana Lakshmi
-Saubhagya Lakshmi
-Vara Lakshmi
-Veera Lakshmi
-Dhairya Lakshmi
-Vidya Lakshmi
-Dharani
-Kamalatmika
-Kamala
-Alamelu
-Alamelu manga
-Padmavati
-Ashta Lakshmi
-Adi Lakshmi
-Maha Lakshmi
-Aishwarya Lakshmi
-Dhana Lakshmi
-Dhanya Lakshmi
-Gaja Lakshmi
-Jaya Lakshmi
-Vijaya Lakshmi
-Raja Lakshmi
-Rajya Lakshmi
-Santana Lakshmi
-Saubhagya Lakshmi
-Vara Lakshmi
-Veera Lakshmi
-Dhairya Lakshmi
-Vidya Lakshmi
-Adi Lakshmi
-Maha Lakshmi
-Aishwarya Lakshmi
-Dhana Lakshmi
-Dhanya Lakshmi
-Gaja Lakshmi
-Jaya Lakshmi
-Vijaya Lakshmi
-Raja Lakshmi
-Rajya Lakshmi
-Santana Lakshmi
-Saubhagya Lakshmi
-Vara Lakshmi
-Veera Lakshmi
-Dhairya Lakshmi
-Vidya Lakshmi
-Dharani
-Kamalatmika
-Kamala
-Laghusyamala
-Manasa
-Mansa Devi
-Mohini
-Nakshatras
-Abhijit
-Anurādhā
-Ardra
-Ashlesha
-Aslesa
-Ashvini
-Bharani
-Chitrā
-Dhanishta
-Hasta
-Jyestha
-Kṛttikā
-Krittika
-Maghā
-Mrigashīrsha
-Mārgaśīrṣa
-Mṛgaśira
-Mula
-Punarvasu
-Punarpusam
-Punartham
-Purva Ashadha
-Pūrva Bhādrapadā
-Purva Phalguni
-Pushya
-Pooyam
-Tishya
-Revati
-Rohinī
-Shatabhisha
-Shravana
-Svati
-Swati
-Uttara Ashadha
-Uttara Bhādrapadā
-Uttara Phalguni
-Vishākhā
-Abhijit
-Anurādhā
-Ardra
-Ashlesha
-Aslesa
-Ashvini
-Bharani
-Chitrā
-Dhanishta
-Hasta
-Jyestha
-Kṛttikā
-Krittika
-Maghā
-Mrigashīrsha
-Mārgaśīrṣa
-Mṛgaśira
-Mula
-Punarvasu
-Punarpusam
-Punartham
-Purva Ashadha
-Pūrva Bhādrapadā
-Purva Phalguni
-Pushya
-Pooyam
-Tishya
-Revati
-Rohinī
-Shatabhisha
-Shravana
-Svati
-Swati
-Uttara Ashadha
-Uttara Bhādrapadā
-Uttara Phalguni
-Vishākhā
-Parvati
-Pārvatī
-Uma
-Umā
-Akilandeswari
-Akhilāṇḑeśvarī
-Ambika
-Annapurna Devi Mata
-Brahmani
-Bhutamata
-Durga
-Aticandika
-Bambar Baini
-Bhadrakali
-Bhagavati
-Bhavani
-Bhuvaneshvari
-Bipodtarini Devi
-Brahmacharini
-Chamunda
-Camunda
-Carcika
-Charchika Devi
-Krsodari
-Chanda
-Kundali
-Kundalini
-Mahishasuramardini
-Navadurga
-Brahmacharini
-Chandraghanta
-Kalaratri
-Kātyāyanī
-Kushmanda
-Mahagauri
-Shailaputri
-Siddhidhatri
-Skandamata
-Vanadurga
-Gauri
-Kaushiki
-Tripura Sundari
-Bagalamukhi
-Akilandeswari
-Akhilāṇḑeśvarī
-Ambika
-Annapurna Devi Mata
-Brahmani
-Bhutamata
-Durga
-Aticandika
-Bambar Baini
-Bhadrakali
-Bhagavati
-Bhavani
-Bhuvaneshvari
-Bipodtarini Devi
-Brahmacharini
-Chamunda
-Camunda
-Carcika
-Charchika Devi
-Krsodari
-Chanda
-Kundali
-Kundalini
-Mahishasuramardini
-Navadurga
-Brahmacharini
-Chandraghanta
-Kalaratri
-Kātyāyanī
-Kushmanda
-Mahagauri
-Shailaputri
-Siddhidhatri
-Skandamata
-Vanadurga
-Aticandika
-Bambar Baini
-Bhadrakali
-Bhagavati
-Bhavani
-Bhuvaneshvari
-Bipodtarini Devi
-Brahmacharini
-Chamunda
-Camunda
-Carcika
-Charchika Devi
-Krsodari
-Krsodari
-Chanda
-Kundali
-Kundalini
-Mahishasuramardini
-Navadurga
-Brahmacharini
-Chandraghanta
-Kalaratri
-Kātyāyanī
-Kushmanda
-Mahagauri
-Shailaputri
-Siddhidhatri
-Skandamata
-Brahmacharini
-Chandraghanta
-Kalaratri
-Kātyāyanī
-Kushmanda
-Mahagauri
-Shailaputri
-Siddhidhatri
-Skandamata
-Vanadurga
-Gauri
-Kaushiki
-Tripura Sundari
-Bagalamukhi
-Bagalamukhi
-Prithvi
-Dharti Mata
-Shakti
-Adi Parashakti
-Adishakti
-Maha Shakti
-Parama Shakti
-Bhairavi
-Chandi
-Chandika
-Chhinnamasta
-Kubjika
-Bahuchara Mata
-Bhramari
-Gangamma Devi
-Adi Parashakti
-Adishakti
-Maha Shakti
-Parama Shakti
-Bhairavi
-Chandi
-Chandika
-Chhinnamasta
-Kubjika
-Bhairavi
-Chandi
-Chandika
-Chhinnamasta
-Kubjika
-Bahuchara Mata
-Bhramari
-Gangamma Devi
-Vinata
-Vanadevata
-Ammavaru
-Chelamma
-Kolaramma
-Bera Pennu
-Anna Kuari
-Ankalamma
-Ankalamman
-Ankalaparamecuvari
-Bala-Sakti
-Cenkalaniyammal
-Ellaman
-Ellaiyamman
-Kamakshi
-Kamaksi
-Kamakshi Amman
-Karaikkal Ammaiyar
-Korravai
-Budhi Pallien
-Hinglaj Mata
-Bonobibi
-Didi Thakrun
-Hatthi
-Hulka Devi
-Hammu Mata
-Banai
-Mhalsa
-Harkor
-Harsidhhi
-Jeen Mata
-Modheshwari
-Ashapura Mata
-Kuldevi
-Nagnechiya Maa
-Kumari
-Bankamundi
-Badi Mata
-Bharat Mata
-Chenjiamman
-Dev Mogra
-Devi Kanya Kumari
-Dewi Danu
-Dewi Ratih
-Dhavdi
-Dhisana
-Durga Ashtami
-Durga Puja
-Ekanamsha
-Gajalakshmi
-Gayatri
-Harsidhhi
-Hemadryamba
-Ila
-Ishvari
-Jagaddhatri
-Jaganmata
-Jagdamba
-Jayanti
-Jivdani Mata
-Kamadhenu
-Kamakhya
-Kamalatmika
-Kanike
-Kannagi
-Kateri Amman
-Kaushiki
-Khemukhi
-Khodiyar
-Kolaramma
-Kubjika
-Kumari
-Kurupuram
-Lajja Gauri
-Lankini
-Maa Tarini
-Maalikapurathamma
-Madayi Kavu
-Mahadevi
-Mahakali
-Mahavidya
-Maheshvari
-Maisamma
-Malabai
-Manakamana
-Manda
-Manisha
-Matangi
-Matrikas
-Maula Kalika
-Modheshwari
-Mumbadevi
-Mumbā
-Muthyalamma
-Nandni Mata
-Navadurga
-regional goddess
-Nila Devi
-Panchakanya
-Paranasabari
-Pathibhara
-Periyachi
-Phul Mata
-Pidari
-Poleramma
-Prasuti
-Pratyangira
-Putana
-Rakteswari
-Rati
-Ratri
-Renuka
-Revati
-Rudrani
-Rukmini
-Sachiya
-Sachayay Mata
-Sachchika
-Sachchiya Mata
-Sachchiyay Mata
-Saibini
-Samaleswari
-Santoshi Mata
-Sarama
-Sarthal Mata
-Sati
-Satyabhama
-Shakambhari
-Shantadurga
-Shashthi
-Shatarupa
-Sheetla
-Shitala
-Shivadooti
-Sinivali
-Sita
-Sri Ramalinga Sowdeswari Amman
-Surasa
-Svaha
-Swasthani
-Tapati
-Tara
-Tridevi
-Trijata
-Tulsi
-Ushas
-Vāc
-Vaishnavi
-Vaishno Devi
-Vajreshwari
-Vakula Devi
-Valli
-Varahi
-Varuni
-Vasavi Kanyaka Parameswari
-Vijayadurga
-Vinayaki
-Vindhyavasini
-Yamuna
-Yami
-Yogini
-Acchupta
-Ambika
-Ambikā
-Ambikā Devī
-Buddhi
-Cakresvari
-Devananda
-Dhrti
-Gandhari
-Gauri
-Kulisankusa
-Eštan
-Urunzimu
-Wurunšemu
-Ḫannaḫanna
-Hatepuna
-Istustaya
-Kataḫziwuri
-Mezulla
-Tappinu
-Papaya
-Zintuḫi
-Ala
-Arinniti
-Ištanu
-Aserdus
-Gulses
-Gulshesh
-Hanwasuit
-Inara
-Ishara
-Istustaya
-Kamrušepa
-Khipa
-Lelwani
-Maliya
-Mezulla
-Papaya
-Šauška
-Tarawa
-Zulki
-Ḫannaḫanna
-Ḫepat
-Hebat
-Khepat
-Hepit
-Hutena
-Huttelurra
-Inara
-Ishara
-Irsirra
-Khipa
-Sertapsuruhi
-Ala
-Ḫapantali
-Maliya
-Aphrodisias
-Kuvava
-Kab Yeeb
-Milotou
-Ataegina
-Ataecina
-Bandua
-Duillae
-Nabia
-Trebaruna
-Trebopala
-Dewi Kwan Im
-Mak Kwan Im
-Dewi Danu
-Dewi Ratih
-Rangda
-Setesuyara
-Dewi Lanjar
-Dewi Ratih
-Dewi Sri
-Nyai Roro Kidul
-Silewe Nazarate
-Hainuwele
-Nyai Pohaci Sanghyang Asri
-Sunan Ambu
-Indo' Belo Tumbang
-Indo' Ongon-Ongon
-A'akuluujjusi
-Akna
-Ataksak
-Aulanerk
-Ignirtoq
-Kadlu
-Kweetoo
-Kweeto
-Malina
-Nujalik
-Pinga
-Pukimna
-Pukkeenegak
-Qailertetang
-Sedna
-Sanna
-Seqinek
-Tootega
-Takánakapsâluk
-Takannaaluk
-Akycha
-Nerrivik
-Arnakuagsak
-Arnakua'gsak
-Arnaqquassaaq
-Arnarquagsag
-Sassuma Arnaa
-Asiaq
-Immap Ukua
-Arnapkapfaaluk
-Isarraitaitsoq
-Nuliajuk
-Ka'cak
-Anahita
-Aredvi Sura Anahita
-Nahid
-Mah
-Mangha
-Ahurani
-Ameretat
-Amordad
+Amunet
 Amurdad
-Mordad
-Arshtat
-Ashtad
-Ashi
-Ahrishwang
-Ashi Vanghuhi
-Ashi Vanuhi
-Bushyasta
-Bushasp
-Daena
-Den
-Dena
-Drvaspa
-Haurvatat
-Hordad
-Khordad
-Jahi
-Jeh
-Spenta Armaiti
-Spendarmad
-Zarik
-Zarich
-Ardoxsho
-lrooaspa
-Mao
-Nana
-Salini
-Satana
-Api
-Argimpasa
-Tabiti
-Akaru-hime
-Himekosho-no-kami
-Himekosho-no-yashiro-no-kami
-Shitateru-hime
-Akinagatarashi-hime
-Amaterasu
-Amaterasu-ōmikami
-Ōhirume-no-muchi-no-kami
-Shinmei
-Tenshō-daijin
-Tenshō-kodaijin
-Amanozako
-Ame-no-Mikumari-no-kami
-Ame-no-Toyotarashikara-hime
-Ame-no-Uzume
-Okame
-Otafuku
-Ayakashikone
-Haniyasu-hime
-Hayaakitsu-hime
-Ichikishima-hime
-Sayori-hime
-Ikutamayori-hime
-Inari Ōkami
-Inazuma
-Ina-bikari
-Ina-tsurubi
-Isukeyori-hime
-Iwanaga-hime
-Iwatsu-hime
-Izanami
-Izuna-hime-no-mikoto
-Kamimusubi
-Kamumusubi
-Kamuōichi-hime
-Ōtoshimioya-no-kami
-Ōtoshimioya-no-mikoto
-Kamuyatate-hime
-Kanayama-hime
-Kayanarumi
-Kayano-hime
-Nozuchi-no-kami
-Kisagai-hime
-Konohanasakuya-hime
-Kukuri-hime
-Kushinada-hime
-Mihotsu-hime
-Mizokui
-Mizokuimimi
-Nakisawame
-Niutsu-hime
-Okinagatarashi-hime
-Otarashi-hime
-Orihime
-Ame-no-tanabata-hime
-Asagao-hime
-Ito-ori-hime
-Me-Tanabata-sama
-Momoko-hime
-Sasagani-hime
-Takimono-hime
-Tanabata-tsume
-Otogisa-hime
-Wakasa-hime
-Ōtomadoime
-Ōtonobe
-Ōtomabe
-Ōyatsuhime
-Saho-hime
-Seyatatara-hime
-Shitateru-hime
-Taka-hime
-Wakakunitama
-Suseri-hime
-Tagitsu-hime
-Tagori-hime
-Tagiri-hime
-Tamakushi-hime
-Tamagushi-hime
-Tamayori-hime
-Tatsuta-hime
-Toyotama-hime
-Toyouke-hime
-Tsubura-hime
-Tsumatsu-hime
-Ugajin
-Ukemochi
-Ōgetsu-hime
-Umugai-hime
-Wakahirume
-Yorozuhata-hime
-Honotohata-hime Kochiji-hime
-Takuhatachiji-hime
-Gigeiten
-Kannon
-Kan'on
-Kanzeon
-Kwannon
-Kishimojin
-Marishiten
-Shichimen-daimyojin
-Tara-bosatsu
-Toshikami
-Shoōgatsu-sama
-Toshitokujin
-Uga Benzaiten
-Butsugen
-Butsumo
-Dakiniten
-Marishiten
-Tara-bosatsu
-Benzaiten
-Benten-sama
-Daikokutennyo
-Kisshōten
-Kichijōten
-Kokuanten
-Amazake-babaa
-Amamikyu
-Seiōbo
-Bagiwang
-Bari Gongju
-Cheuksin
-Chilseongsin
-Eopsin
-Gameunjang
-Gaxi Sonnim
-Gwan-eum
-Gwanse-eum
-Jeoseung Halmang
-Jijang
-Jowangsin
-Jungsegyeong
-Jacheongbi
-Mago Halmoni
-Myeongwol
-Oneuli
-Samsin Halmoni
-Samseung Halmang
-Seonangsin
-Seowangmo
-Solmundae Halmang
-Sosamsin
-Teojusin
-Jisin
-Ungnyeo
-Wongang Ami
-Yeongdeung
-Yuhwa
+Ana
+Anagolay
+Anahit
+Anahita
+Anaideia
+Anaisa La Chiquita
+Anaisa Pie
+Anaisa Pie Danto
+Anaisa Pye
+Anaitis
+Anaka
+Anand
+Ananke
+Anann
+Anant
+Anasuya
+Anat
+Anath
+Anatole
+Anatolia
+Anauk Mibaya
+Anaulikutsai'x
+Ancamna
+Ancasta
+Andarta
+Andrasta
+Andraste
 Andriaahoabu
 Andriamahilala
 Andriamanitra
-Leimarel Sidabi
-Imoinu Ahongbi
-Panthoibi
-Phouoibi
-Nongthang Leima
-Irai Leima
-Thumleima
-Nga Leima
-Aṯiratu
-Ilatu
-Aṯtartu
-Śamšu
-Agasaya
-Qetesh
-Ama-arhus
-Amat-Ama-arhus
-Arad-Ama-arhus
-Amašagnul
+Androktasiai
+Angak-chin Mana
+Angelia
+Angelos
+Angerona
+Angeyja
+Angitia
+Angrboda
+Angrboða
+Angwushahai-i
+Angwusnasomtaka
+Anhefta
+Ania
+Anit
+Aniton Tauo
+Anitun Tabu
+Anjea
+Ankalamma
+Ankalamman
+Ankalaparamecuvari
+Anna Kuari
+Anna Perenna
+Annapurna Devi Mata
+Annawan
+Annea Clivana
+Annona
+Anput
+Anqet
+Anta
+Antd
+Antevorta
+Antheia
+Anti
+Antit
 Antu
 Antum
+Anu
+Anuke
+Anuket
+Anukis
+Anumati
 Anunitu
-Ašḫara
-Ashnan
-Aya
-A-a
-Aja
-Baltis
-Belili
-Belet-Ili
-Belet-Seri
-Belit Ilani
-Gingira
-Davkina
-Ishtar
-Kishar
-Kubaba
-Lahamu
-Lilitu
-Mami
-Belet Ili
-Mama
-Mammitum
-Nintu
-Mamitu
-Mammetum
-Mammetun
-Mammitu
-Mullissu
-Mylitta
-Sarpanit
-Beltiya
-Shimti
-Tashmetum
-Tiamat
-Kiririsha
-Kirrisi
-Pinikir
-Hala
-Ashnan
-Azimua
-Baba
-Bau
-Ereshkigal
-Gatumdag
-Gatumdug
-Geshtinanna
-Hegir-Nuna
-Gangir
-Hemdikug
-Hušbišag
-Inanna
-Ki
-Lisin
-Manungal
-Nungal
-Nammu
-Nanaya
-Nanshe
-Nidaba
-Nanibgal
-Nisaba
-Nin-imma
-Ningal
-Ningikuga
-Ninhursag
+Anuput
+Anurādhā
+Anusuya
+Anzotica
+Aoide
+Apate
+Apemerukoyan-mat Unamerukoyan-mat
+Āpertra
+Apet
+Aphaea
+Aphrodisias
+Aphrodite
+Api
+Apollonis
+Aporia
+Apsaras
+Apúng Sinukuan
+Arachne
+Arad-Ama-arhus
+Arae
+Aranyani
+Arasy
+Arawa
+Arche
+Arcismati
+Arctus
+Ardoxsho
+Ardra
+Arduinna
+Areatha
+Aredvi Sura Anahita
+Arete
+Argimpasa
+Ariadne
+Arianrhod
+Arinniti
+Ảrit-ȧakhu
+Ảriti
+Aritimi
+Arke
+Arktos
+Arnakua'gsak
+Arnakuagsak
+Arnapkapfaaluk
+Arnaqquassaaq
+Arnarquagsag
+Arnemetia
+Ārohirohi
+Arsay
+Arshtat
+Arsinoe II
+Artemis
+Artemitei
+Artemitos
+Arthapratisamvit
+Artio
+Artume
+Artumes
+Arubani
+Arundhati
+Arurin
 Aruru
-Damgalnuna
-Damkina
-Ninmah
-Nintu
-Ninkasi
-Ninkurra
-Ninlil
-Ninmena
-Ninsar
-Ninshubur
-Ninsianna
-Ninsun
-Ninsumun
-Ninsutu
-Ninti
-Nintinugga
-Baba
-Gula
-Nunbarsegunu
-Shala
-Sharra Itu
-Sherida
-Shulsaga
-Siduri
-Sirara
-Siris
-Sirtir
-Suzianna
-Ua-Ildak
-Uras
-Uttu
-Abeguwo
-Abere
-Adi-mailagu
-Lewalevu
-La'aka
-Nevinbimbaau
-Nei Tituaabine
-Eijebong
-Aba-Khatun
-Almoshi
-Budraganá
-Budung Yihé Ibi
-Búlai
-Deleyte-Sagan-Khatun
-Ehé Tazar
-Ehé Ureng Ibi
-Qazagar
-Sakhala-Khatun
-Sanqaliń Qatĕń
-Syt-kul-amine
-Bilig-un cinadu kijaghar-a kuruksen
-Hotogov Mailgan
-Isa
-Kele-yin ükin tengri
-Nachigai
-Etugen
-Yal-un eke
-Teleglen-Edzen
-Shekinah
-Nok-a-mi
-Mooinarkw
-Grandmother Bear
-Nemissa
-Nokomis
-Pook-jin-skwess
-Winonah
-Netami-gho
-Awasiukiu
-Masâkamek'okiu
-Pêp'âkijisê
-Pikâkamik'okiu
+Arya Tara
+Asaase Afua
+Asaase Yaa
+Asagao-hime
+Asase Ya
+Asase Yaa
+Asdzą́ą́ Nádleehé
+Aserdus
+Aset
+Ashapura Mata
+Ašḫara
+Asherah
+Ashi
+Ashi Vanghuhi
+Ashi Vanuhi
+Ashiakle
+Ashima
+Ashketanne Mat
+Ashlesha
+Ashnan
+Ashokasundari
+Ashta Lakshmi
+Ashtad
+Ashtar-Chemosh
+Ashvini
+Asiaq
 Asibikaashi
-Gawaunduk
-Geezhigo-Quae
-Muzzu-Kummik-Quae
-Weshellequa
-Kohkomhdena
-Paapooddkwaki
-Coi Coi-Vilu
-Ten Ten-Vilu
-Kueyen
+Asībowan
+Asintmah
+Aslesa
+Aspalis
+Ašratum
+Astarte
+Asteria
+Astghik
+Astɫik
+Astraea
+Astrape
+Astrild
+Asvayujau
 Atabey
-Caguana
-Guabancex
-Atina
-Atira
-Pah
-Uti Hiata
-Mother Corn
-Bachué
-Chía
-Huitaca
-Duskeah
-Ioi
-Wah-Kah-Nee
-Loo-Wit
-Hutash
-Momoy
-Dju
-Dzelarhons
-Djila'qons
-Rhpisunt
-Tia
-Xaalajaat
-Copper Woman
-Aaghu Gugu
-Ailsie
-Elihino
-Igaehinvdo
-Kanene Ski Amai Yehi
-Spider Grandmother
-Nunda Igehi
-Sehu
-Sélu
-Unelanuhi
-U'thu Uta
-Utlunta
-Atahensic
+Ataecina
+Ataegina
 Ataensic
 Ataentsic
-Djigonasee
-Eithinoha
-Gendenwitha
-Genetaska
-Lelawala
-Onatah
-O-ne-ha-tah
-Oo-kwa-we
-Eagentci
-Godasiyo
-Djigonasee
-Mahohrah
-Wäh-trōhn-yŏ-nōh'-nĕh
-Nungui
-Iyatiku
-Tsichtinako
-Thought Woman
-Akhushtal
-Akna
-Chibirias
-Ix Chebel Yax
-Ix Hun Tah Dz'ib
-Ix Hun Tah Nok
-Ix Zacal Nok
-Chimalmat
-Chirakan-Ixmucane
-Colel Cab
-Ix Kanan
-Ixazaluoh
-Xbaquiyalo
-Xpuch
-Xtah
-C'abawil Ix
-Ixchel
-Xtabai
-Awilix
-Auilix
-Avilix
-E Akom
-Ixchel
-Xmucane
-Xpiacoc
-Xquic
-Mayahuel
-Ixchel
-Ixtab
-Xtabay
-Goddess I
-Maya moon goddess
-Abohli
-Eskeilay
-Heloha
-Hvashi
-Ohoyochisba
-Puchi Yushuba
-Asintmah
-Atsintma
-Áłtsé Asdzáán
-First Woman
-Asdzą́ą́ Nádleehé
-Estsanatlehi
-Changing Woman
-Turquoise Woman
-Yoołgai Asdzą́ą́
-White Shell Woman
-Baʼáłchíní
-Dilyéhé
-Planting Stars
-Haashchʼéé Baʼáádí
-Hastsébaádi
-Qastcebaad
-Yebaad
-Female Divinity
-Haashchʼéé Oołtʼohí
-Hastséoltoi
-Hastyeoltoi
-Shooting God
-Hakʼaz Asdzą́ą́
-Cold Woman
-Náhookǫs Baʼáádí
-Whirling Woman
-Na'ashjé'ii Asdzáá
-Spider Grandmother
-Są́
-Old Age Woman
-Tséghádiʼnídíinii Atʼééd
-Rock Crystal Girl
-Tetogolee
-Cenakatla'x
-Salmon Woman
-Djiyin
-Gaus!tukoba'ni
-Wah Sil
-Acpaxapo
-Mudu
-Nohpyttecha
-Zäna
-Loha
-Lok Snewédjas
-Máidicdac
-Moasäm Beps
-Waslaag
-Witsduk
-Pahto
-Baculbotet
-Duwe da
-Night Woman
-Luhdee
-Totolmatha
-Xa'a da
-Day Woman
-Axomamma
-Cavillace
-Ch'aska
-Ch'aska Quyllur
-Copacati
-Ka-Ata-Killa
-Kukamama
-Mama Allpa
-Mama Killa
-Mama Quilla
-Mama Ocllo
-Mama Qucha
-Mama Sara
-Saramama
-Pachamama
-Mama Pacha
-Chietsum
-Anaulikutsai'x
-Klallam
-Nahkeeta
-Nonō'osqua
-Nunuso
-Qamaits
-Tlitcaplitana
-Tacoma
-Qeuxu
-Enamtues
-Scomalt
-C-ga
-Núwakanda
-Hanwi
-Hanhepi Wi
-Maka
-Unhcegila
-Unk
-Wóȟpe
-Ptehíŋčalasaŋwiŋ
-Pasowee
-Selmayi
-Panyoka
-Pohaha
-Ee-eh-ch-chó-ri-ch'áhm-nin
-P'áh-hlee-oh
-Nalq
-Caipora
-Arasy
-Jande Jari
-Kerana
-Sypave
-Chalchiuhtlicue
-Chalmecacihuitl
-Chantico
-Cuauhxolotl
-Chicomecoatl
-Centeocihuatl
-Xilonen
-Chiconahui
-Chimalma
-Chimalman
-Cihuacalli
-Cihuacoatl
-Chihucoatl
-Quilaztli
-Cihuacuauhtli
-Cihuacuiahuitl
-Cihuamazatl
-Cihuaozomatl
-Cihuateteo
-Cipactli
-Citlalicue
-Citlalinicue
-Ilamatecuhtli
-Coatlicue
+Atahensic
+Ataksak
+Atana Potinija
+Atanua
+Atar'atheh
+Atarapa
+Atargatis
+Atë
+Atemito
+Atete
+Athana Potnia
+Athena
+Athirat
+Athrpa
+Athtart
+Aticandika
+Atimite
+Atina
+Atira
+Aṯiratu
+Atla
+Atlanteia
 Atlatonan
-Teteoh Innan
-Coyolxauhqui
-Huixtocihuatl
-Uixtochihuatl
-Ixnextli
-Itzcuintli
-Itzpapalotl
-Itzcueye
-Itzpapaloti-Itzcueye
-Malinalxochitl
-Malinalxoch
-Mayahuel
-Metztli
-Mictecacihuatl
-Oxomoco
-Quetzalcoatl
-Temazcalteci
-Tlazolteotl
-Toci
-Tlalli Iyollo
-Tonacacihuatl
-Tonantzin
-Chalchiuhcihuatl
-Chicomexochitl
-Tzitzimitl
-Xochiquetzal
-Ichpochtli
-Yohaulticetl
-Menil
-Menily
-Ahol Mana
-Spring Maiden
-Angak-chin Mana
-Kocha Mana
-White Maiden
-Angwushahai-i
-Crow Bride
-Angwusnasomtaka
-Crow Mother
-Hahay-i Wuhti
-Pour Water Grandmother
-Hano Mana
-Tewa Maiden
-Hé-é-e Wuhti
-He Wuhti
-Hehea Mana
-Hehee
-Teakwaina Mana
-Warrior Woman
-Heoto Mana
-Guard Woman
-Horo Mana
-Yohozro Wuhti
-Cold-bringing Woman
-Kahaila Mana
-Turtle Maiden
-Kokopelmimi
-Kokyang Wuhti
-Spider Grandmother
-Koyemsi Mana
-Mudhead Maiden
-Mosairu Mana
-Buffalo Maiden
-Navuk-chin Mana
-Nuvak-chin Mana
-Snow Maiden
-Qoqole Mana
-Marble Player Maiden
-Pachavuin Mana
-Palhik Mana
-Water Drinking Maiden
-Pavin Mana
-Water Maiden
-Poli Mana
-Butterfly Maiden
-Sakwa Mana
-Kachin Mana
-Blue Corn Maiden
-Shalako Mana
-Giant Cloud Maiden
-Sowi-ing Mana
-Deer Maiden
-Soyal Mana
-Winter Solstice Maiden
-Soyok Mana
-Natacka Mana
-Ogre Maiden
-Soyok Wuhti
-Natacka Wuhti
-Ogre Grandmother
-Takursh Mana
-Yellow Corn Maiden
-Talakin
-Tukwinong Mana
-Cumulus Cloud Maiden
-Chehiayam
-Tomaiyovit
-Pahalali
-Iyeruame
-Iyerúgame
-Matlalcueitl
-Chehooit
-E'lg'eldokwila
-Mem Loimis
-Nomhewena Pokaila
-Norwan
-Pakchuso Pokaila
-Yonot
-Puana
-Cathena
-Nyohaiva
-Sanyu.xáv
-Warharmi
-Awitelin Tsta
+Atropos
+Atsintma
+Aṯtartu
+Atua Fafine
+Atua-anua
+Âu Cơ
+Auco
+Audėja
+Auge
+Auilix
+Aulanerk
+Aura
+Aurboða
+Aurora
+Ausaas
+Aušra
+Aušrinė
+Austėja
+Auxesia
+Auxo
+Aveta
+Avilix
+Awasiukiu
+Awilix
 Awitelin Tsita
-Prende
-Thana
-Thiana
-Anzotica
-Bendis
-Iambadoule
-Kotys
+Awitelin Tsta
+Axomamma
+Aya
+Ayaba
+Ayakashikone
+Ayao
+Ayida-Weddo
+Ayida-Wedo
+Ayizan
+Ayurvasita
+Azimua
+B'sst
+Ba
+Bà Chúa Kho
+Bà Chúa Thượng Ngàn
+Bà Chúa Xứ
+Bà Đen
+Bà mụ
+Bà Triệu
+Ba-khati
+Ba'alat Gebal
+Baalat
+Baalit
+Baast
+Baba
+Baba Gvozdenzuba
+Baba Korizma
+Baba Roga
+Baba Slata
+Baba Yaga
+Bachué
+Baculbotet
+Badb
+Badb Catha
+Badhbh
+Badi Mata
+Baduhenna
+Bagalamukhi
+Bagbartu
+Bagiwang
+Bagmashtu
+Bagmasti
+Bago Medaw
+Bagparti
+Bagvarti
+Bahuchara Mata
+Bai Mudan
+Baītpandī
+Baiut-s-ảmiu-heh
 Bakunawa
-Bituoon
-Dagat
-Daragang Magayon
-Haliya
-Oryol
-Diwata ng Kagubatan
-Akodau
-Daungen
+Bala Tripurasundari
+Bālā Tripurasundarī
+Bala-Sakti
+Balanos
+Balanus
+Balinsogo
+Balintawag
+Baltis
+Bambar Baini
+Bana-jiermu
+Banai
+Banba
+Banbha
+Bandua
 Bangan
+Bangu māte
+Bankamundi
+Bára
+Barbale
+Bari Gongju
+Baset
+Bast
+Bastet
+Bat
+Bau
+Baubo
+Baʼáłchíní
+Bé Chuille
+Bé Chuma
+Beag
+Beaivi
+Bébhinn
+Bébinn
+Bec
+Becuille
+Beda
+Begoe
+Beira
+Beivve
+Beiwe
+Bel
+Belenos
+Belenus
+Belet Ili
+Belet-Ili
+Belet-Seri
+Beli Mawr
+Belili
+Belinus
+Belit Ilani
+Bellona
+Beltiya
+Bendis
+Benten-sama
+Benthesikyme
+Benzaiten
+Bera Pennu
+Bereginia
+Beregynia
+Berehynia
+Bergusia
+Besna
+Bestla
+Beyla
+Bezelea
+Bhadra
+Bhadrakali
+Bhagavati
+Bhairavi
+Bharani
+Bharat Mata
+Bharati
+Bhavani
+Bhramari
+Bhrkuti-Tara
+Bhūmi
+Bhumidevi
+Bhumis
+Bhutamata
+Bhuvaneshvari
+Bia
+Bia-ka-pusud-an-langit
+Bia-t'oden
+Biejje
+Bievve
+Bigois
+Bila
+Bilig-un cinadu kijaghar-a kuruksen
+Binayo
+Bipodtarini Devi
+Birrahgnooloo
+Birutė
+Bituoon
+Blóðughadda
+Blue Corn Maiden
+Boand
+Boann
+Bodek
+Boginka
+Bóinn
+Boldogasszony
+Bona Dea
+Bong Libun
+Bonobibi
+Bormana
+Borysthenis
+Boudihillia
+Brahmacharini
+Brahmani
+Branwen
+Brėkšta
+Bricta
+Brig
+Brigantia
+Brigid
+Brigit
+Brimo
+Britannia
+Britomartis
+Brizo
+Bronte
+Brynhildr
+Bubona
+Buddhabodhiprabhavasita
+Buddhalocana
+Buddhalochana
+Buddhi
+Budhi Pallien
+Budraganá
+Budtė
+Budung Yihé Ibi
+Buffalo Maiden
+Bugan
 Bugan inBulul
 Bugan inIntongnin
 Bugan inKinulhudan
@@ -3182,350 +602,344 @@ Bugan inUldi
 Bugan inWigan
 Bugan nak Amtalao
 Bugan nak Hinumbian
-Manolge inBahiwag
-Alindodoay
-Anat
-Annawan
-Arurin
-Balintawag
-Bugan
-Dagdagamiyan
-Dinawágan
-Agemem
-Alokotán
-Asībowan
-Gaygayóma
-Sīnag
-Ag-aganney
-Apúng Sinukuan
-Indung Tibuan
-Lakanbini
-Mangechay
-Mangacha
-Mingan
-Sisilim
-Binayo
-Baītpandī
-Balinsogo
-Bia-ka-pusud-an-langit
-Bia-t'oden
+Buk
+Búlai
 Bulan
-Dagau
-Darago
-Linamin at Barat
-Linamin at Bulag
-Aniton Tauo
-Bodek
-Anitun Tabu
-Anagolay
-Diyan Masalanta
-Hanan
-Hukluban
-Idiyanale
-Lakapati
-Mananangal
-Manggagaway
-Manisilat
-Maria Makiling
-Mayari
-Tala
-Bong Libun
 Bulon La Mogoaw
-La Fun
-Minaden
-Abyang
-Abyang Durunuun
-Alunsina
+Bunzi
 Burigadang Pada Sinaklang Bulawan
-Dalikamata
-Lalahon
-Lidagat
-Lisuga
-Lubay-Lubyok Hanginun si Mahuyokhuyokan
-Luyong Baybay
-Maguayan
-Magwayan
-Maria Cacao
-Nagmalitong Yawa Sinagmaling Diwata
-Suklang Malayon
-Adrasteia
-Matar Kubileya
-Matar Kubeleya
-Atarapa
-Hina
-Hine-i-Tapeka
-Hine-Tu-Whenua
-Ira
-Kuku Lau
-Merau
-Haumea
-Hina-Lau-Limu-Kala
-Hina-puku-ia
-Ka'ohelo
-Kalamainu'u
-Kapo
-Laka
-Lona
-Mahina
-Nuakea
-Papahānaumoku
-Pele
-Poliʻahu
-Waka
-Hina-moe-aitu
-Miru
-Papa
-Papatūānuku
-Ro'e
-Tu-metua
-Tumu-te-ana-oa
-Vaiare
-Varima-te-takere
-Ārohirohi
-Hina
-Hine-ahuone
-Hine-nui-te-pō
-Hine-Ata-Uira
-Hine-Titama
-Hine-titamauri
-Kohara
-Kui
-Mahuika
-Miru
-Rohe
-Te Anu-matao
-Whaitiri
-Atanua
-Rohe
-Hokohoko
-Atua-anua
-Hina-Oio
-Manana Take
-Riri-tuna-rai
-Ele-ele
-Leutogi
-I'i
-Nafanua
-Sina
-Taema
-Tilafaiga
-Atua Fafine
-Ai-tupuai
-Hina
-Ihi
-Potii-ta-rire
-Rearea
-Taonoui
-Te-uri
-Faumea
-Hina
-Hina-Arau-Riki
-Hausos
-Sophie
-Maiden of the Mere
-Abeona
-Abundantia
-Acca Larentia
-Adeona
-Aequitas
-Aeternitas
-Africa
-Agenoria
-Alala
-Alemona
-Alemonia
-Angerona
-Angitia
-Anna Perenna
-Annona
-Antevorta
-Arachne
-Aura
-Aurora
-Bellona
-Bona Dea
-Britannia
-Bubona
+Bushasp
+Bushyasta
+Buto
+Butsugen
+Butsumo
+Butterfly Maiden
+Bylgja
+C-ga
+C'abawil Ix
+Caguana
+Cailleach
+Cailleach Bheur
+Caipora
+Cakresvari
+Calaina
+Cale
+Calleis
+Calliope
+Calypso
 Camenae
+Camunda
+Caṇḍālī
 Candelifera
+Cangu
+Cangu Nainai
+Canmu
+Carcika
 Cardea
+Carme
 Carmenta
+Carphos
+Carpo
+Carya
+Caryatis
+Cath
+Catha
+Cathena
+Cathubodua
+Cauri
+Cavillace
+Cavtha
+Cel
+Cela māte
+Celaeno
+Cenakatla'x
+Cenkalaniyammal
+Centeocihuatl
+Cephisso
+Cerca
 Ceres
-Cinxia
-Clementia
-Cloacina
-Concordia
-Cuba
-Cunina
-Cura
-Dea Dia
-Dea Tacita
-Decima
-Deverra
-Di nixi
-Diana
-Dies
-Disciplina
-Edesia
-Edusa
-Egeria
-Empanda
-Epona
-Fauna
-Faustitas
-Febris
-Fecunditas
-Felicitas
-Ferentina
-Feronia
-Fides
-Flora
-Fornax
-Fortuna
-Fortuna Huiusce Diei
-Fortuna Redux
-Fortuna Virilis
-Fraus
-Fulgora
-Furrina
-Gallia
-Hecate
-Hersilia
-Hippona
-Iana
-Intercidona
-Invidia
-Iustitia
-Juno
-Juno Caelestis
-Juturna
-Juventas
-Laetitia
-Larentina
-Laverna
-Levana
-Libera
-Liberalitas
-Libertas
-Libitina
-Lima
-Lua
-Lucina
-Luna
-Lympha
-Magna Dea
-Mana Genita
-Mania
-Mater Larum
-Mater Matuta
-Meditrina
-Mefitis
-Mellona
-Minerva
-Molae
-Moneta
-Morta
-Murcia
-Nascio
-Necessitas
-Nerio
-Nona
-Ops
-Orbona
-Palatua
-Pales
-Parcae
-Partula
-Patelana
-Paventia
-Pax
-Pellonia
-Poena
-Pomona
-Postverta
-Potina
-Prorsa Postverta
-Proserpina
-Providentia
-Pudicitia
-Puta
-Querquetulanae
-Quiritis
-Regina Caeli
-Robigo
-Roma
-Rumina
-Rusina
-Salacia
-Securitas
-Semonia
-Sentia
-Silvanae
-Spes
-Stata Mater
-Stimula
-Strenua
-Suadela
-Tempestas
-Terra
-Tranquillitas
-Trivia
-Tutela
-Tutelina
-Ultio
-Vacuna
-Vallonia
-Venilia
-Venus
-Venus Castina
-Venus Verticordia
-Veritas
-Vesta
-Vica Pota
-Victoria
-Viriplaca
-Virtus
-Volumna
-Volutina
-Baba Slata
-Baba Gvozdenzuba
-Baba Korizma
-Slata Baba
-Zlatá Baba
-Zlota-Baba
-Zolotaya Baba
-Baba Yaga
-Baba Gvozdenzuba
-Baba Korizma
-Baba Roga
-Gorska Maika
-Jaga Baba
-Ježibaba
-Pehtra Baba
-Sumska Majka
-Bereginia
-Beregynia
-Berehynia
-Przeginia
-Boginka
+Ceridwen
+Cethleann
+Cethlenn
+Ceto
+Ch'aska
+Ch'aska Quyllur
+Chaabou
+Chalchiuhcihuatl
+Chalchiuhtlicue
+Chalmecacihuitl
+Chamunda
+Chanda
+Chandi
+Chandika
+Chandraghanta
+Chang'e
+Changing Woman
+Changxi
+Chantico
+Chao Mae Kuan Im
+Chaomae Thapthim
+Chaomae Thongkham
+Charchika Devi
+Charis
+Charites
+Charmo Vetr
+Chaxiraxi
+Chaya
+Chehiayam
+Chehooit
+Cheimon
+Chelamma
+Chenjiamman
+Chenrézik
+Chensit
+Cheuksin
+Chhaya
+Chhinnamasta
+Chía
+Chibirias
+Chicomecoatl
+Chicomexochitl
+Chiconahui
+Chietsum
+Chihucoatl
+Chilseongsin
+Chimalma
+Chimalman
+Chimalmat
+Chinnamunda
+Chione
+Chirakan-Ixmucane
+Chirtel Ma
 Chislobog
-Kricco
-Zislobog
-Darinka
-Devana
+Chitrā
+Chrysopeleia
+Chrysothemis
+Chúa Xứ Thánh Mẫu
+Chuangmu
 Cica
+Cihuacalli
+Cihuacoatl
+Cihuacuauhtli
+Cihuacuiahuitl
+Cihuamazatl
+Cihuaozomatl
+Cihuateteo
+Cinxia
+Cipactli
+Circe
 Cisa
+Cithaeronides
+Citlalicue
+Citlalinicue
+Citrasena
+Cittavasita
 Ciza
+Claea
+Clementia
+Cleta
+Clídna
+Clio
+Clíodhna
+Clíodna
+Clíona
+Clionadh
+Cloacina
+Clota
+Clotho
+Cô Đôi Thượng Ngàn
+Coatlicue
+Čodõra-kuva
+Coi Coi-Vilu
+Cold Woman
+Cold-bringing Woman
+Colel Cab
+Concordia
+Copacati
+Copper Woman
+Coventina
+Coyolxauhqui
+Creiddylad
+Creirwy
+Crobh Dearg
+Crow Bride
+Crow Mother
+Cuauhxolotl
+Cuba
+Culsu
+Cumulus Cloud Maiden
+Cunda
+Cunina
+Cupra
+Cura
+Cybele
 Cyca
+Cyhyraeth
+Cyllene
+Cymidei Cymeinfoll
+Cynosura
+Cypris
+Dæl
+Daena
+Dagat
+Dagau
+Dagdagamiyan
+Daikokutennyo
+Daji
+Dakiniten
+Dali
+Dalia
+Dalikamata
+Damavukha
+Damgalnuna
+Damia
+Damkina
+Damona
+Dana
+Danana
+Danina
+Danu
+Daphne
+Daphnis
+Dapuritojo Potinija
+Daragang Magayon
+Darago
+Darinka
+Dartsa-Naana
+Darzamāte
+Daungen
+Davkina
+Day Woman
+Dea Dia
+Dea Matrona
+Dea Syria
+Dea Tacita
+Deasura
+Decima
+Deer Maiden
+Dēkla
+Dēkla māte
+Deleyte-Sagan-Khatun
+Demeter
+Den
+Dena
+Derceto
+Derketo
+Despoina
+Dev Mogra
+Deva
+Devaki
+Devana
+Devananda
+Devasena
+Deverra
+Devi
+Devi Kanya Kumari
 Devoina
+Dewa
 Dewana
+Dewi Danu
+Dewi Kwan Im
+Dewi Lanjar
+Dewi Ratih
+Dewi Sri
 Dewin
 Dewina
+Dezalik
+Dhairya Lakshmi
+Dhana Lakshmi
+Dhanada
+Dhanishta
+Dhanya Lakshmi
+Dharani
+Dharmamegha
+Dharmapratisamvit
+Dharmavasita
+Dharti Mata
+Dhat-Badan
+Dhavdi
+Dhisana
+Dhrti
+Dhumavati
+Dhumorna
+Dhupa
+Dhupatara
+Dhvajagrakeyura
+Di nixi
+Dia
+Diana
+Diang
+Dianmu
+Dictynna
+Didi Thakrun
 Didilia
 Didilla
+Didilya
+Dies
+Diêu Trì Kim Mẫu
 Diewana
 Diewen
+Digambara
 Diiwica
+Dike
+Diksa
+Diksha
+Dilga
+Dilyéhé
+Dinawágan
+Dindymene
+Dione
+Dipa
+Dipatara
+Dipti
+Dís
+Disa
+Disani
+Disciplina
+Disni
+Diti
+Divona
+Diwata ng Kagubatan
+Diwia
+Diyan Masalanta
+Ḍizálik
+Dizane
+Djanggawul
+Djigonasee
+Djila'qons
+Djiyin
+Dju
+Doda
+Dodola
+Domania
+Domovikha
+Dôn
+Doqeia
+Doris
+Doumu
+Drob Derg
+Dröfn
+Drvaspa
+dryad
+Dryad
+Dryope
+Dudula
+Dúfa
+Dugnė
+Duillae
+Durga
+Durga Ashtami
+Durga Puja
+Durjaya
+Durumgama
+Duskeah
+Duwe da
+Düza Minkar
+Dysis
+Dysnomia
+Dyssebeia
+Dzelarhons
+Dzewa
 Dzidziela
 Dzidzilelya
 Dziedzilia
@@ -3534,327 +948,2448 @@ Dziewica
 Dziewina
 Dziewitza
 Dziewonna
+Dzivaguru
 Dziwitza
 Dzydzilelya
-Sisa
-Zeiz
-Zewena
-Ziewonia
-Ziza
-Zizilia
-Zyzlila
-Dodola
-Didilya
-Doda
-Dudula
-Paparuda
-Perperuna
-Preperuša
-Domania
-Damavukha
-Domovikha
-Marukha
-Volossatka
+E Akom
+E Bukura e Dheut
+E Huang
+E'lg'eldokwila
+Éadaoin
+Eagentci
+Echo
+Édaín
+Edesia
+Edusa
+Ee-eh-ch-chó-ri-ch'áhm-nin
+Egeria
+Egungun-oya
+Ehaema
+Ehé Tazar
+Ehé Ureng Ibi
+Eiar
+Eijebong
+Eileithyia
+Eingana
+Eir
+Éire
+Eirene
+Eiresione
+Eistla
+Eithinoha
+Eithne
+Ekajati
+Ekanamsha
+Ekecheiria
+Ekhi
+Elat
+Ele-ele
+Electra
+Electryone
+Elete
+Eleutheria
+Eleuthia
+Elihino
+Elina
+Elinai
+Elinei
+Ellaiyamman
+Ellaman
+Elli
+Elpis
+Emotan
+Empanda
+Enamtues
+Enie
+Enodia
+Enyo
+Eopsin
+Eos
+Ēostre
+Epane
+Epimeliad
+Epimēlides
+Epione
+Epona
+Era
+Erato
+Erecura
+Ereshkigal
+Ereutija]]
+Erewijo Potinija
+Erinu
+Erinuwe
+Erinyes
+Eris
+Ériu
+Ernmas
+Ernutet
+Ersa
+Erzili
+Erzulie
+Ese
+Eset
+Eskeilay
+Esna
+Eštan
+Estsanatlehi
+Esus
+Étaín
+Eth
+Ethausva
+Ethniu
+Etugen
+Etugen Eke
+Eucleia
+Eukarpia
+Eunomia
+Eunostus
+Eupheme
+Euphrosyne
+Euporia]]
+Euporie
+Eupraxia
+Eurydice
+Eurydome
+Eurynome
+Euterpe
+Euthenia
+Euturpa
+Eye of Ra
+Eyrgjafa
+Ezili
+Fand
+Fann
+Faumea
+Fauna
+Faustitas
+Febris
+Fecunditas
+Felicitas
+Female Divinity
+Feng popo
+Ferentina
+Feronia
+Ferspnai
+Fides
+Filomena
+Fimmilena
+First Woman
+Fjörgyn
+Flidais
+Flidas
+Fliodhais
+Fliodhas
+Flora
+Fódhla
+Fódla
+Fóla
+Fornax
+Fortuna
+Fortuna Huiusce Diei
+Fortuna Redux
+Fortuna Virilis
+Fótla
+Fraujō
+Fraus
+Frea
+Freja
+Freke
+Freya
+Freyia
+Freyja
+Friagabis
+Frig
+Frigg
+Frija
+Frijjō
+Fuamnach
+Fulgora
+Fulla
+Fullō
+Furrina
+Gabija
+Gabjauja
+Gadintoja
+Gaia
+Gaillimh inion Breasail
+Gaja Lakshmi
+Gajalakshmi
+Galene
+Gallia
+Gameunjang
+Gandha
+Gandha Tara
+Gandhari
+Ganga
+Ganga Devi
+Gangamma Devi
+Gangir
+Garmangabis
+Gatumdag
+Gatumdug
+Gauri
+Gaus!tukoba'ni
+Gausu māte
+Gawaunduk
+Gaxi Sonnim
+Gayatri
+Gaygayóma
+Geezhigo-Quae
+Gefjon
+Geirahöð
+Geiravör
+Geirdriful
+Geirölul
+Geirömul
+Geirönul
+Geirrönul
+Geirskögul*
+Gendenwitha
+Genetaska
+Gerðr
+Gersemi
+Geshtinanna
+Giant Cloud Maiden
+Gigeiten
+Giltinė
+Gingira
+Gita
+Gjálp
+Gleti
+Gná
+Gnowee
+Godasiyo
+Goddess I
+Göll
+Gondu
+Göndul
+Gontia
+Gorska Maika
+Grace
+Graeae
+Grahamatrka
+Gran Brigitte
+Grandmother Bear
+Grann Brigitte
+Grdhrasya
+Greip
+Guabancex
+Guanyin
+Guard Woman
+Guðr
+Gula
+Gullveig
+Gulses
+Gulshesh
+Gulsilia Mata
+Gun Ana
+Gun Yam
+Gunnr
+Gwan-eum
+Gwanse-eum
+Gwun Yam
+Gymnasia
+Gymnastica
+Gymnastike
+Haashchʼéé Baʼáádí
+Haashchʼéé Oołtʼohí
+Hahay-i Wuhti
+Hai Bà Trưng
+Hainuwele
+Hajnal Anyácska
+Hakʼaz Asdzą́ą́
+Hala
+Haliya
+Hamadryad
+Hamadryas
+Hämarik
+Hamavehae
+Hammu Mata
+Hanan
+Hane
+Hanea
+Hanhepi Wi
+Haniyasu-hime
+Ḫannaḫanna
+Hano Mana
+Hanwasuit
+Hanwi
+Ḫapantali
+Hariasa
+Hariti
+Harkor
+Harmonia
+Harsa
+Harsidhhi
+Hasinaw-uk-kamuy
+Hasta
+Hastsébaádi
+Hastséoltoi
+Hastyeoltoi
+Hatepuna
+Hathor
+Hatmehit
+Hatmehyt
+Hatthi
+Hauhet
+Haumea
+Haurvatat
+Hausos
+Hawit-Mahuyat
+Hayaakitsu-hime
+He Wuhti
+He Xiangu
+Hé-é-e Wuhti
+Hebat
+Hebe
+Ḥebit
+Hecate
+Hedetet
+Hedjedjet
+Hefring
+Hegemone
+Hegir-Nuna
+Hehea Mana
+Hehee
+Heiðr
+Heimarmene
+Heket
+Hel
+Heliades
+Helike
+Heloha
+Hemadryamba
+Hemantadevi
+Hemdikug
+Hemera
+Hemsut
+Hemuset
+Heoto Mana
+Ḫepat
+Hepit
+Heptet
+Heqet
+Heqtit
+Hera
+Heret
+Heret-Kau
+Herfjötur
+Herja
+Hersilia
+Hert-ketit-s
+Hert-Nemmat-Set
+Hert-sefu-s
+Heru-pa-kaut
+Hervör alvitr
+Hesat
+Heset
+Hesperis
+Hestia
+Hetemit
+Hetepes-Sekhus
+Hevring
+Hildr
+Himekosho-no-kami
+Himekosho-no-yashiro-no-kami
+Himinglæva
+Hina
+Hina-Arau-Riki
+Hina-Lau-Limu-Kala
+Hina-moe-aitu
+Hina-Oio
+Hina-puku-ia
+Hine-ahuone
+Hine-Ata-Uira
+Hine-i-Tapeka
+Hine-nui-te-pō
+Hine-Titama
+Hine-titamauri
+Hine-Tu-Whenua
+Hinglaj Mata
+Hippeia
+Hippona
+Hiribi
+Hjalmþrimul
+Hjörþrimul
+Hlaðguðr svanhvít
+Hlín
+Hlóðyn
+Hlökk
+Hludana
+Hnamadawgyi
+Hnoss
+Hokohoko
+Holda
+Homonoia
+Honotohata-hime Kochiji-hime
+Horae
+Hordad
+Horea
+Horme
+Horo Mana
+Horsel
+Horta
+Hotogov Mailgan
+Hotr
+Hotra
+Houtu
+Hrêða
+Hrist
+Hrönn
+Hrund
+Htibyuhsaung Medaw
+Hua Mulan
+Huang Daopo
+Huba
+Huitaca
+Huixtocihuatl
+Hukluban
+Hulka Devi
+Ḥunit
+Ḥunit Pe
+Ḥunit urit
+Ḥuntheth
+Ḥurit urit
+Hušbišag
+Hutash
+Hutena
+Huttelurra
+Hvashi
+Hygieia
+Hypate
+Hysminai
+I'i
+Iab
+Iabet
+Iabtet
+Ialysos
+Iambadoule
+Iana
+Iansã
+Ianuaria
+Iárnvidia
+Iaso
+Iat
+Icauna
+Icep' Kanasaw
+Ichikishima-hime
+Ichnaea
+Ichpochtli
+Icovellauna
+Ida
+Idā
+Idaeae
+Idis
+Idiyanale
+Iðunn
+Idyia
+Iemanjá
+Igaehinvdo
+Ignirtoq
+Ihi
+Ikutamayori-hime
+Ila
+Ilamatecuhtli
+Ilargi
+Ilat Inbi
+Ilatu
+Ilithiia
+Ilmaneitsi
+Ilmatar
+Ilmatütar
+Ilmr
+Ilo
+Imð
+Imðr
+Imentet
+Imentit
+Immap Ukua
+Imoinu Ahongbi
+Ina
+Ina-bikari
+Ina-tsurubi
+Inanna
+Inara
+Inari Ōkami
+Inazuma
+Inciona
+Indo' Belo Tumbang
+Indo' Ongon-Ongon
+Indraja
+Indrani
+Indukari
+Indung Tibuan
+Inkosikazi
+Inmar
+Inpewt
+Input
+Intercidona
+Invidia
+Ioi
+Iord
+Iouga
+Ipemedeja
+Iphemedeia
+Ipy
+Ira
+Irai Leima
+Iresu Kamuy
+Iris
+Irpa
+Irsirra
+Isa
+Isarraitaitsoq
+Ishara
+Ishat
+Ishtar
+Ishtarat
+Ishvari
+Isis
+Isosange Mat
+Issa
+Issaki
+Išskalbėja
+Ištanu
+Istenanya
+Istustaya
+Isukeyori-hime
+Ito-ori-hime
+Itzcueye
+Itzcuintli
+Itzpapaloti-Itzcueye
+Itzpapalotl
+Iunit
+Iusaas
+Iusaaset
+Iustitia
+Iw
+Iwanaga-hime
+Iwatsu-hime
+Ix Chebel Yax
+Ix Hun Tah Dz'ib
+Ix Hun Tah Nok
+Ix Kanan
+Ix Zacal Nok
+Ixazaluoh
+Ixchel
+Ixnextli
+Ixtab
+Iyá Mésàn
+Iyami Aje
+Iyatiku
+Iyeruame
+Iyerúgame
+Izanami
+Izuna-hime-no-mikoto
+Jabme-Akka
+Jacheongbi
+Jaga Baba
+Jagaddhatri
+Jaganmata
+Jagdamba
+Jahi
+Jande Jari
+Janguli
+Jarð
+Járnsaxa
+Jaya Lakshmi
+Jayanti
+Jayatara
+Jeen Mata
+Jeh
+Jeoseung Halmang
+Jestak
+Jēṣṭak
+Jetsun Dölma
+Ježibaba
+Jiang Yuan
+Jijang
+Jinguang Shengmu
+Jingwei
+Jinmu Yuanjun
+Jisin
+Jivdani Mata
+Jnanadakini
+Jnanaparamita
+Jnanavasita
+Jord
+Jörð
+Jorth
+Jowangsin
+Juksakka
+Julunggul
+Jumõn Šočõn
+Jumõn Üdõr
+Junda
+Jungsegyeong
+Juno
+Juno Caelestis
+Jūras māte
+Jutta
+Juturna
+Juventas
+Jyestha
+Ka-Ata-Killa
+Ka'cak
+Ka'ohelo
+Kaabu
+Kab Yeeb
+Kabechet
+Kabehchet
+Kachin Mana
+Kadlu
+Kadru
+Kahaila Mana
+Kaikara
+Kakasya
+Kakia
+Kaladuti
+Kalamainu'u
+Kalaratri
+Kālarātri
+Kale
+Kali
+Kālikā
+Kalleis
+Kalligeneia
+Kallone
+Kalma
+Kalmuneiu
+Kaltes Ankw
+Kaltes-Ekwa
+Kamadhenu
+Kamakhya
+Kamakshi
+Kamakshi Amman
+Kamaksi
+Kamala
+Kamalatmika
+Kamar
+Kamimusubi
+Kamini
+Kamira
+Kamrušepa
+Kamumusubi
+Kamuōichi-hime
+Kamuy Paseguru
+Kamuy-huci
+Kamuyatate-hime
+Kan'on
+Kanayama-hime
+Kanene Ski Amai Yehi
+Kanike
+Kankar Mata
+Kanna Kamuy
+Kannagi
+Kannon
+Kanti
+Kanzeon
+Kapalini
+Kapo
+Kapu māte
+Kára
+Karaikkal Ammaiyar
+Karatgurk
+Karini
+Karmavasita
 Karna
+Kārta
+Kārta māte
+Kartikeyani
+Karttiki
+Karya
+Kataḫziwuri
+Kateri Amman
+Kathirat
+Kātyāyanī
+Kauket
+Kaulinyčia
+Kaumari
+Kaumudi
+Kaushiki
+Kayanarumi
+Kayano-hime
+Kebechet
+Kebehut
+Kebehwet
+Kele-yin ükin tengri
+Ken
+Kenas-unarpe
+Kerana
+Keres
+Kesini
+Khasa
+Khebhut
+Khefthernebes
+Khemukhi
+Khen-Ma
+Khensit
+Khepat
+Khipa
+Khodiyar
+Khordad
+Ki
+Kianda
+Kichijōten
 Kikimora
+Kime
+Kipu-tyttö
+Kiririsha
+Kirrisi
+Kirti
+Kisagai-hime
+Kishar
+Kishimojin
+Kisshōten
+Kivutar
+Klallam
+Kocha Mana
+Kohara
+Kohkomhdena
+Kokopelmimi
+Kokuanten
+Kokyang Wuhti
+Kolaramma
+Kólga
+Kollapura Mahalakshmi
+Komawenteia
+Komaweteja
+Konohanasakuya-hime
+Kore
+Korravai
+Korrigan
 Kostroma
+Kotharat
+Kotharot
+Kotisri
+Kotys
+Kourotrophos
+Koyemsi Mana
+Kraneia
+Krasopani
+Kricco
+Krittika
+Krsodari
+Kṛttikā
+Krumai
+Krūminė
+Krumu māte
+Kruonis
+Ksama
+Kshama
+Kshumai
+Kṣitigarbha
+Kuan Im
+Kuan Se Im
+Kuanja
+Kubaba
+Kubai
+Kubjika
+Kubuddhi
+Kueyen
+Kui
+Kukamama
+Kuku Lau
+Kukuri-hime
+Kuldevi
+Kulisankusa
+Kulisesvari
+Kumari
+Kumārikā
+Kun Lam
+Kunapipi
+Kundali
+Kundalini
 Kupala
 Kupalnica
 Kupalnitsa
-Sointse
+Kurukullā
+Kurupuram
+Kushinada-hime
+Kushmanda
+Kuu
+Kuutar
+Kuvava
+Kwan Yin Medaw
+Kwannon
+Kweeto
+Kweetoo
+Kwun Yam
+La Baliene
+La Fun
+La Sirène
+La'aka
+Lachesis
 Lada
+Laetitia
+Laghusyamala
+Lahamu
+Laima
+Laimė
+Lajbegelda
+Lajja Gauri
+Laka
+Lakanbini
+Lakapati
+Lakshmi
+Lalahon
+Lâm Cung Thánh Mẫu
+Lamara
+Lamaria
+Lamia
+Lampad
+Lampetia
+Lampsace
+Lan Caihe
+Lankini
+Lapu māte
+Larentina
+Lasa
+Lasa Vecuvia
+Latis
+Latva
+Laufey
+Lauka māte
+Lauku māte
+Lauma
+Laumė
+Laverna
+Lazdona
+Lazdu māte
+Leimarel Sidabi
+Leinth
+Leizi
+Leizu
+Lelawala
 Lelia
+Lelwani
 Leshachikha
 Lesovikha
 Leszachka
-Matergabia
-Matka Gabia
-Marzanna
-Mamuriena
-Mara
-Marena
-Marmora
-Marmuriena
-Maržena
-Maslenitsa
-Mora
-Morana
-Morena
-Mokosh
-Mat Zemlya
-Mokoš
-Ognyena Maria
-Marija Glavjenica
-Marija Ognjenica
-Ognevikha
-Ognjena Mariya
-Ognyena
-Onennaya
-Onennaya Mariya
-Ozwiena
-Poludnica
-Chirtel Ma
-Polednica
-Polednice
-Poloznicha
-Południca
-Poludniowka
-Poludnitsa
-Poludnitza
-Přezpołdnica
-Připołdnica
-Przypoludnika
-Rodiva
-Rozanica
-Baba
-Deva
-Dewa
-Dzewa
-Krasopani
-Razivia
-Raziwia
-Rodiwa
-Rodjenica
-Rodzhanitsa
-Rojanitsa
-Rozhdenica
-Udelnica
-Rusalka
-Samodiva
-Vila
-Sudenica
-Orisnica
-Sudica
-Uroda
-Ursula
-Horsel
-Orsel
-Ursala
-Veliona
-Veliuona
-Velonia
-Vielona
-Vielonia
-Vesna
-Wiosna
-Vida
-Wida
-Wita
-Vita
-Živa
-Razivia
-Sieba
-Siua
-Siva
-Siwa
-Zhiva
-Zywie
-Zywye
-Zorya
-Zorya Utrennyaya
-Zorya Vechernyaya
-Zorya Polunoshnaya
-Zvezda
-Zvezda Dennitsa
-Zvezda Vechernyaya
-Alovai
-Ina
-Rijar
-Sauliyau
-Taribuyayan
-Tejamatsan
-Teposuruyan
-Tsinatsinau
-Telanke
-Panapanayan
-Wauan
-Icep' Kanasaw
-Nivnu
-Nunurao
-Chaomae Thongkham
-Chaomae Thapthim
-Kuan Im
-Chao Mae Kuan Im
-Phra Mae Kuan Im
-Nang Kwak
-Phosop
-Phra Mae Thorani
-Mae Phra Thorani
-Nang Thorani
-Abkai Hehe
-Bana-jiermu
-Tuoyalaha
-Ak Ana
-Etugen Eke
-Gun Ana
-Kubai
-Od Ana
-Su Ana
-Umay
-Yer Tanrı
-Angitia
-Cupra
-Äiatar
-Ehaema
-Hämarik
-Ilmaneitsi
-Ilmatütar
-Ilo
-Jutta
-Kalmuneiu
-Kuu
+Leta
+Letha
+Letham
+Lethe
+Lethms
+Lethns
+Leto
+Letun
+Leutogi
+Levana
+Lewalevu
+Lí Ban
+Li Jilan
+Li Ye
+Libera
+Liberalitas
+Libertas
+Libitina
+Libya
+Lidagat
+Lietus māte
+Lietuva
+Liễu Hạnh
+Lilitu
+Liluri
+Lima
+Limos
+Linamin at Barat
+Linamin at Bulag
 Linda
-Maan-Emo
-Vete-ema
-Ajatar
-Aiätär
-Aijotar
-Ajattara
-Akka
-Maaemonen
-Ilmatar
-Luonnotar
-Kalma
-Kipu-tyttö
-Kivutar
-Kuutar
-Loviatar
-Louhi
+Lingnan Shengmu
+Linu māte
+Lisin
+Lisuga
+Litae
+Lofn
+Loha
+Lok Snewédjas
+Lona
+Longmu
+Longnü
+Loo-Wit
+Lopes māte
+Lopu Marija
+Lopu māte
+Losna
 Louhetar
+Louhi
 Louhiatar
 Loveatar
 Loveheta
 Lovetar
-Mielikki
-Päivätär
-Syöjätär
-Tellervo
-Tuonetar
-Vammatar
-Veenemo
-Vellamo
-Wellamo
-Akka
-Beaivi
-Beivve
-Beiwe
-Biejje
-Bievve
-Jabme-Akka
-Juksakka
+Loviatar
+lrooaspa
+Lua
+Lubanga
+Lubay-Lubyok Hanginun si Mahuyokhuyokan
+Lucina
+Luhdee
+Luna
+Lunang
+Luobo gelda
+Luonnotar
+Lupe
+Lurbira
+Luyong Baybay
+Lympha
+Lyssa
+Ma
+Ma Ngwe Taung
+Ma-ga
+Ma'at
+Maa Tarini
+Maa-ā
+Maa-neter-s
+Maaemonen
+Maalikapurathamma
+Maan-Emo
+Maat
+Macaria
+Macha
+Machai
+Madayi Kavu
+Mademoiselle Charlotte
 Maderakka
+Mae Phra Thorani
+Mafdet
+Maftet
+Maga
+Magec
+Maghā
+Magna Dea
+Mago Halmoni
+Magu
+Maguayan
+Magwayan
+Mah
+Maha Lakshmi
+Maha Shakti
+Mahadevi
+Mahagauri
+Mahakali
+MahaLakshmi
+Mahavidya
+Mahendri
+Maheshvari
+Mahina
+Mahishasuramardini
+Mahohrah
+Mahuika
+Maia
+Maiden of the Mere
+Máidicdac
+Maisamma
+Maîtresse Délai
+Maîtresse Hounon'gon
+Mak Kwan Im
+Maka
+Malabai
+Malina
+Malinalxoch
+Malinalxochitl
+Maliya
+Mama
+Mama Allpa
+Mama Killa
+Mama Ocllo
+Mama Pacha
+Mama Qucha
+Mama Quilla
+Mama Sara
+Maman Brigitte
+Maman Brijit
+Mami
+Mami Wata
+Mamitu
+Mamlambo
+Mammetum
+Mammetun
+Mammitu
+Mammitum
+Mamuriena
+Mana Genita
+Manaf
+Manakamana
+Manana Take
+Mananangal
+Manasa
+Manāt
+Manda
+Mandarava
+Mangacha
+Mangechay
+Manggagaway
+Mangha
+Mania
+Maniae
+Manisha
+Manisilat
+Manman
+Manman Brigit
 Mano
-Sarakka
-Rana Niejta
-Uksakka
-Čodõra-kuva
-Jumõn Šočõn
-Jumõn Üdõr
-Mlandava
-Piambar
-Šočõn Ava
+Manolge inBahiwag
+Mansa Devi
+Manungal
+Mao
+Mara
+Māra
+Maras
+Marble Player Maiden
+Māre
+Marena
+Mārgaśīrṣa
+Mari
+Maria Cacao
+Maria Makiling
+Marici
+Marija Glavjenica
+Marija Ognjenica
+Marinette
+Marinette Bras Cheche
+Marinette Pied Cheche
+Marishiten
+Mārīte
+Marmora
+Marmuriena
+Mārša
+Māršava
+Marukha
+Marzanna
+Maržena
+Masâkamek'okiu
+Maslenitsa
 Mastorava
-Zarni Ań
-Inmar
-Boldogasszony
-Istenanya
-Nagyboldogasszony
-Hajnal Anyácska
-Nap Anya
-Szélanya
-Tűz Anya
-Víz Anya
-Kaltes Ankw
-Kaltes-Ekwa
-Dartsa-Naana
-Mokh-Naana
-Mozh
-Seelasat
-Sata
-Sela-Sata
-Tusholi
-Reitia
-Âu Cơ
-Bà Chúa Kho
-Bà Chúa Xứ
-Chúa Xứ Thánh Mẫu
-Bà Đen
-Bà mụ
-Bà Triệu
-Diêu Trì Kim Mẫu
-Tây Vương Mẫu
-Hai Bà Trưng
-Liễu Hạnh
-Mẫu Thượng Thiên
+Mat Zemlya
+Matangi
+Matar Kubeleya
+Matar Kubileya
+Mater Deva
+Mater Larum
+Mater Matuta
+Mater Theia
+Matere Teija
+Matergabia
+Matit
+Matka Gabia
+Matlalcueitl
+Matrikas
+Matronae Aufaniae
 Mẫu Địa Phủ
 Mẫu Thoải
-Thủy cung Thánh Mẫu
 Mẫu Thượng Ngàn
-Bà Chúa Thượng Ngàn
-Cô Đôi Thượng Ngàn
-Lâm Cung Thánh Mẫu
-Nữ Oa
-Quán Thế Âm
-Quan Âm
-Thánh Mẫu Liễu Hạnh
-Thiên Hậu
-Thiên Y A Na
-Allatu
-Allatum
-Ashima
-Liluri
-Asherah
-Belet-Seri
-Anat
-Anath
-Arsay
-Asherah
-Ašratum
-Elat
-Qodesh
-Aspalis
-Athirat
-Athtart
-Baalat
-Baalit
-Ba'alat Gebal
-Derceto
-Hiribi
-Ishat
-Kotharat
-Kathirat
-Kotharot
+Mẫu Thượng Thiên
+Maula Kalika
+Maut
+Mawu
+Maya moon goddess
+Mayahuel
+Mayari
+Mazu
+Mbaba Mwana Waresa
+Mbokomu
+Me-Tanabata-sama
+Méabh
+Meaḋḃ
+Meadhbh
+Mean
+Meanpe
+Medaw Shwezaga
+Medb
+Medb Lethderg
+Medeina
+Meditrina
+Medjed
+Medziojna
+Mefitis
+Megaera
+Mehet-Weret
+Mehit
+Mehyt
+Mekhit
+Melete
+Meliae
+Melinoë
+Mellona
+Melpomene
+Mem Loimis
+Menchit
+Mene
+Mēness
+Meng Jian Nü
+Meng Po
+Menhit
+Menil
+Menily
+Menrva
+Mėnuo
+Merau
+Meret
+Meretseger
+Merit
+Merope
+Mert
+Mertseger
+Mese
+Mesembria
+Mesenet
+Meshkent
+Meskhenet
+Meskhent
+Mėšlų boba
+Metaia
+Metančioji
+Metis
+Metresili
+Metua
+Metus
+Metvia
+Metztli
+Meza māte
+Mezulla
+Mhalsa
+Mictecacihuatl
+Mielikki
+Mieza māte
+Miglas māte
+Mihotsu-hime
+Milda
+Milotou
+Minaden
+Mindort-brdzanebeli
+Minerva
+Mingan
+Miru
+Mist
+Mizokui
+Mizokuimimi
+Mlandava
+Mneme
+Mnemosyne
+Moasäm Beps
+Móðguðr
+Modheshwari
+Modron
+Mohini
+Moirai
+Mokh-Naana
+Mokienė
+Mokoš
+Mokosh
+Molae
+Momoko-hime
+Momoy
+Momu
+Moneiba
+Moneta
+Mongfhionn
+Mongfind
+Mooinarkw
+Mór Mhumhan
+Mór Mumain
+Mór Muman
+Mora
+Morana
+Mordad
+Morė
+Morea
+Morena
+Morta
+Mosairu Mana
+Moterų Gabija
+Mother Corn
+Mousike
+Mout
+Mozh
+Mṛgaśira
+Mrigashīrsha
+Mu Guiying
+Mudhead Maiden
+Mudu
+Mula
+Mulindwa
+Mullissu
+Mumbā
+Mumbadevi
+Munthukh
+Murcia
+Murigen
+Muse
+Musica
+Mut
+Muthyalamma
+Muzzu-Kummik-Quae
+Mya Nan Nwe
+Myaukhpet Shinma
+Mycene
+Myeongwol
 Mylitta
+Na'ashjé'ii Asdzáá
+Nā'ila
+Nabia
+Nachigai
+Nafanua
+Nagadya
+Nagawonyi
+Nagmalitong Yawa Sinagmaling Diwata
+Nagnechiya Maa
+Nagyboldogasszony
+Nahid
+Nahkeeta
+Náhookǫs Baʼáádí
+Nairatmya
+Nakisawame
+Nakith
+Nakshatras
+Nál
+Nalq
+Nambi
+Nammu
+Nana
+Nanã
+Nana Buluku
+Nana Burukú
+Nanai
+Nanaya
+Nandni Mata
+Nane
+Nang Kwak
+Nang Thorani
+Nanibgal
+Nanna
+Nanna Tala
+Nanshe
+Nantosuelta
+Nap Anya
+Nar
+Naria
+Narodakini
+Nascio
+Natacka Mana
+Natacka Wuhti
+Naunet
+Navadurga
+Navuk-chin Mana
+Nayakaya
+Neb Ȧa-t
+Neb Ȧa-t-Then
+Neb āāu
+Neb ȧkeb
+Neb Ȧnit
+Neb ảri-t-qerr-t
+Neb ảrit-tcheṭflu
+Neb ảs-ḥatt
+Neb ȧs-ur
+Neb Ȧter
+Neb ȧter-Shemā
+Neb au-t-ȧb
+Neb ảur
+Neb Aut
+Neb Bȧa-t
+Neb ḥekau
+Neb ḥetep
+Neb Khasa
+Neb Khebit
+Neb peḥti
+Neb Per-res
+Neb petti
+Neb Sa
+Neb Sam
+Neb sau-ta
+Neb sebu
+Neb Septi
+Neb Un
+Neb-ābui
+Neb-t ȧakhu
+Neb-t ȧnemit
+Neb-t ānkh
+Neb-t ānkhiu
+Neb-t Ảţu
+Neb-t au-t-ȧb
+Neb-t Aut
+Neb-t Kheper
+Neb-t usha
+Neber-Het
+Nebethetepet
+Nebt Ȧa-t
+Nebt Ȧa-t-Then
+Nebt āāu
+Nebt ȧkeb
+Nebt Ȧnit
+Nebt Ānnu
+Nebt ȧri-t-qerr-t
+Nebt ȧs-ur
+Nebt Ȧter-Meḥ
+Nebt ȧter-Shemā
+Nebt ảur
+Nebt Bȧa-t
+Nebt ḥekau
+Nebt ḥetep
+Nebt Khasa
+Nebt Khebit
+Nebt peḥti
+Nebt Per-res
+Nebt petti
+Nebt Sa
+Nebt Sam
+Nebt sau-ta
+Nebt sebu
+Nebt Septi
+Nebt Un
+Nebt-ābui
+Nebt-Ankhiu
+Nebt-Khu
+Nebt-Mat
+Nebt-Setau
+Nebt-Shat
+Nebt-Shefshefet
+Nebthet
+Nebtu
+Nebtuwi
+Necessitas
+Nefertȧry
+Nehalennia
+Nehmetawy
+Nei Tituaabine
+Neit
+Neith
+Nekhbet
+Nemain
+Nemesis
+Nemetona
+Nemissa
+Nenet
+Neper
+Nephele
+Nephthys
+Nepra
+Nepri
+Nerio
+Neris
+Nerrivik
+Nerþuz
+Nesoi
+Net
+Netami-gho
+Nete
+Neterit-nekhenit-Rā
+Netrit fent
+Nevinbimbaau
+Newopejo Potinija
+Nga Leima
+Nidaba
+Night Woman
+Nijolė
+Nike
 Nikkal
-Ilat Inbi
 Nikkal-wa-Ib
-Pidraya
+Nila Devi
+Nin-imma
+Nine Daughters of Ægir and Rán
+Nine Mothers of Heimdallr
+Ningal
+Ningikuga
+Ninhursag
+Ninkasi
+Ninkurra
+Ninlil
+Ninmah
+Ninmena
+Ninsar
+Ninshubur
+Ninsianna
+Ninsumun
+Ninsun
+Ninsutu
+Ninti
+Nintinugga
+Nintu
+Nirmali
+Nirṛti
+Nisaba
+Nit
+Niutsu-hime
+Nivnu
+Njörun
+Nohpyttecha
+Nok-a-mi
+Nokomis
+Nomhewena Pokaila
+Nomia
+Nomkhubulwane
+Nona
+Nongthang Leima
+Nonō'osqua
+Norwan
+Nótt
+Nozuchi-no-kami
+Nu
+Nữ Oa
+Nu Ying
+Nuakea
+Nüba
+Nuha
+Nuit
+Nujalik
+Nukirpėja
+Nuliajuk
+Nunbarsegunu
+Nunda Igehi
+Nungal
+Nungui
+Nunurao
+Nunuso
+Nunut
+Nurtia
+Nut
+Nuvak-chin Mana
+Nüwa
+Núwakanda
+Nyai Pohaci Sanghyang Asri
+Nyai Roro Kidul
+nymph
+Nympha
+Nymphe
+Nyohaiva
+Nyx
+O-ne-ha-tah
+Oba
+Od Ana
+Oenone
+Oenotropae
+Ōgetsu-hime
+Ognevikha
+Ognjena Mariya
+Ognyena
+Ognyena Maria
+Ogre Grandmother
+Ogre Maiden
+Ōhirume-no-muchi-no-kami
+Ohoyochisba
+Oiá
+Oizys
+Okame
+Okinagatarashi-hime
+Olapa
+Old Age Woman
+Olokun
+Ölrún
+Onatah
+Onennaya
+Onennaya Mariya
+Oneuli
+Onuava
+Oo-kwa-we
+Ops
+Orbona
+Oread
+Orihime
+Orisa Oluwa
+Orisnica
+Orsel
+Oryol
+Oshun
+Ostara
+Otafuku
+Otarashi-hime
+Othreis
+Otogisa-hime
+Ōtomabe
+Ōtomadoime
+Ōtonobe
+Ōtoshimioya-no-kami
+Ōtoshimioya-no-mikoto
+Oxomoco
+Oxúm
+Oya
+Ọya-Iyansan
+Ōyatsuhime
+Ozwiena
+P'áh-hlee-oh
+Paapooddkwaki
+Pachamama
+Pachavuin Mana
+Pachet
+Padmavati
+Pah
+Pahalali
+Pahto
+Päivätär
+Pajau Yan
+Pajauta
+Pakchuso Pokaila
+Pakhet
+Palatua
+Palden Lhamo
+Pales
+Palhik Mana
+Palioxis
+Pallas
+Pan Jinlian
+Panacea
+Panapanayan
+Panchakanya
+Pandia
+Panthoibi
+Panyoka
+Papa
+Papahānaumoku
+Paparuda
+Papatūānuku
+Papaya
+Parama Shakti
+Paranasabari
+Parcae
+Partula
+Parvati
+Pārvatī
+Pasht
+Pasikrata
+Pasiphaë
+Pasithea
+Pasowee
+Patelana
+Pathibhara
+Paventia
+Pavietrė
+Pavin Mana
+Pax
+Pehkhet
+Pehtra Baba
+Peitharchia
+Peitho
+Pele
+Pelenų Gabija
+Pelican
+Pellonia
+Pemphetru
+Penarddun
+Penia
+Pêp'âkijisê
+Pepromene
+Perchta
+Percunatele
+Pereswa
+Pergrubė
+Perit
+Periyachi
+Perkūnaitėlė
+Perperuna
+Persephone
+Persipnei
+Pesi
+Petorush Mat
+Phaenna
+Phastet
+Pheme
+Phersipnai
+Phersipnei
+Pherusa
+Phigalia
+Philophrosyne
+Philotes
+Phoebe
+Phosop
+Phouoibi
+Phra Mae Kuan Im
+Phra Mae Thorani
+Phrike
+Phthinoporon
+Phul Mata
+Piambar
+Pidari
 Pidray
+Pidraya
+Piena māte
+Pikâkamik'okiu
+Pilvytė
+Pinga
+Pinikir
+Pipituna
+Pirta māte
+Pistis
+Pitys
+Planē
+Planting Stars
+Pleiad
+Pleiades
+Po Yan Dari
+Poena
+Pohaha
+Polednica
+Polednice
+Poleramma
+Poli Mana
+Poliʻahu
+Poloznicha
+Poludnica
+Południca
+Poludniowka
+Poludnitsa
+Poludnitza
+Polyhymnia
+Pomona
+Pook-jin-skwess
+Pooyam
+Popa Medaw
+Poppy goddess
+Postverta
+Potamides
+Potii-ta-rire
+Potina
+Potinija Asiwija
+Potinija Iqeja
+Potinija Wokode
+Potnia Hippeia
+Potnia of Sitos
+Potnia of the Labyrinth
+Potnia of Thebes
+Potnia Theron
+Poulomi
+Pour Water Grandmother
+Prabhakari
+Prajnaparamita
+Prakde
+Pramudita
+Prasuti
+Pratisamvits
+Pratyangira
+Praurimė
+Praxidike
+Preah Mae Kun Ci Iem
+Preah Thorani
+Prende
+Preperuša
+Preswa
+Přezpołdnica
+Připołdnica
+Prithvi
+Proioxis
+Prophasis
+Prorsa Postverta
+Proserpina
+Proserpnai
+Providentia
+Przeginia
+Przypoludnika
+Ptehíŋčalasaŋwiŋ
+Ptelea
+Ptocheia
+Puana
+Puchi Yushuba
+Pudicitia
+Pukimna
+Pukkeenegak
+Pulomaja
+Punarpusam
+Punartham
+Punarvasu
+Purva Ashadha
+Pūrva Bhādrapadā
+Purva Phalguni
+Pushya
+Puta
+Putana
 Qadeshtu
+Qailertetang
+Qamaits
+Qastcebaad
+Qazagar
+Qebehut
+Qebhet
+Qerasia
+Qerasija
+Qererti
+Qerhet
+Qetesh
+Qeuxu
+Qin Liangyu
+Qiu Jin
+Qodesh
+Qoqole Mana
+Qowia
+Qowija
+Quan Âm
+Quán Thế Âm
+Qudshu
+Queen Oronsen
+Querquetulanae
+Quetzalcoatl
+Quilaztli
+Quiritis
 Rachmay
 Rachmayyu
+Ráðgríðr
+Radha
+Raet
+Raet-Tawy
+Ragana
+Ragutiene Pati
 Rahmay
-Rohmaya
+Raja Lakshmi
+Rajya Lakshmi
+Rakteswari
+Rán
+Rana Niejta
+Randgrid
+Randgríðr
+Rangda
+Rasa
+Ratainyčia
+Rati
+Ratri
+Razivia
+Raziwia
+Rearea
+Regina Caeli
+Reginleif
+regional goddess
+Reitia
+Rekhit
+Renenutet
+Renetet
+Renpet
+Renuka
+Repyt
+Revati
+Rhapso
+Rhea
+Rhiannon
+Rhodos
+Rhpisunt
 Ri
+Ricagambeda
+Rigbyedma
+Rijar
+Rindr
+Riri-tuna-rai
+Ritona
+Ro'e
+Robigo
+Rock Crystal Girl
+Rodiva
+Rodiwa
+Rodjenica
+Rodzhanitsa
+Rohe
+Rohinī
+Rohmaya
+Rojanitsa
+Roma
+Röskva
+Rosmerta
+Róta
+Rozanica
+Rozhdenica
+Rudrani
+Rukmini
+Rumina
+Rusalka
+Rusina
+Są́
+Sachayay Mata
+Sachchika
+Sachchiya Mata
+Sachchiyay Mata
+Sachiya
+Sachmis
+Sadhumati
+Safekh-Aubi
+Sága
+Saho-hime
+Saibini
+Sait
+Sakhala-Khatun
+Sakhet
+Sakhmet
+Sakwa Mana
+Salacia
+Salini
+Salmacis
+Salmon Woman
+Samaleswari
+Samantabhadrī
+Samding Dorje Phagmo
+Samdzimar
+Samodiva
+Samseung Halmang
+Samsin Halmoni
+Śamšu
+Sandaramet
+Sandraudiga
+Sanna
+Sanngriðr
+Sanqaliń Qatĕń
+Santana Lakshmi
+Santoshi Mata
+Sanyu.xáv
+Saosis
+Sarakka
+Sarama
+Saramama
+Saranji
+Saranyu
+Saraswati
+Saris
+Sarpanit
+Sarthal Mata
+Sasagani-hime
+Sassuma Arnaa
 Sasuratum
+Sata
+Satana
+Satet
+Sati
+Satiada
+Satis
+Satyabhama
+Saubhagya Lakshmi
+Saule
+Saulė
+Sauliyau
+Šauška
+Sayori-hime
+Scomalt
+Securitas
+Sedna
+Seelasat
+Sefkhet-Abwy
+Sehith
+Sehu
+Seiōbo
+Sekhat-Hor
+Sekhet
+Sekhet-Metu
+Sekhmet
+Sela-Sata
+Selardi
+Selcis
+Selene
+Sėlija
+Selket
+Selmayi
+Selqet
+Sélu
+Semine
+Semla
+Semonia
+Sentia
+Senu māte
+Senuna
+Seonangsin
+Seowangmo
+Sepedet
+Seqinek
+Sequana
+Seret
+Sergėtoja
+Serket
+Serqet
+Sertapsuruhi
+Sesenet-Khu
+Seshat
+Seta
+Setesuyara
+Seyatatara-hime
+Shachi
+Shaheded
+Shailaputri
+Shakambhari
+Shakti
+Shala
+Shalako Mana
+Shams
+Shantadurga
+Shapash
 Shapshu
+Sharra Itu
+Shashthi
+Shatabhisha
+Shatarupa
+Sheetla
+Shekinah
+Shemat-Khu
+Shentayet
+Shenty
+Sherida
+Shesemtet
+Shesmet
+Shesmetet
+Shichimen-daimyojin
+Shimti
+Shin Nemi
+Shingon
+Shingwa
+Shinmei
+Shitala
+Shitateru-hime
+Shivadooti
+Shoōgatsu-sama
+Shooting God
+Shravana
+Shuimu
+Shuiwei Shengniang
+Shulsaga
+Shwe Nabay
+Siddhidhatri
+Siduri
+Sieba
+Sif
+Sigrdrífa
+Sigrún
+Sigyn
+Silewe Nazarate
+Silvanae
+Sina
+Sīnag
+Sinivali
+Sinoe
+Sinthgunt
+Sirara
+Siris
+Sirona
+Sirtir
+Sisa
+Sisilim
+Sita
+Sitatapatra
+Sito
+Sito Potinija
+Siua
+Siva
+Siwa
+Sjöfn
+Skaði
+Skalmöld
+Skandamata
+Skeggjöld
+Skeggöld
+Skögul
+Skuld
+Slata Baba
+Smilšu māte
+Smithis
+Snake Goddess
+Sniega māte
+Snotra
+Snow Maiden
+Šočõn Ava
+Sointse
+Sól
+Solmundae Halmang
+Songzi Niangniang
+Sopdet
+Sophie
+Sosamsin
+Sothis
+Souconna
+Sowi-ing Mana
+Sowilō
+Soyal Mana
+Soyok Mana
+Soyok Wuhti
+Spandaramet
+Spendarmad
+Spenta Armaiti
+Spes
+Sphragitides
+Spider Grandmother
+Sponde
+Spring Maiden
+Sri Ramalinga Sowdeswari Amman
+Stata Mater
+Sterope
+Stimula
+Strenua
+Su Ana
+Suadela
+Sudenica
+Sudica
+Sudurjaya
+Suklang Malayon
+Suleviae
+Sulis
+Sumska Majka
+Sun Bu'er
+Sunan Ambu
+Sunna
+Surasa
+Suseri-hime
+Suwa'
+Suzianna
+Sváfa
+Svaha
+Svati
+Sveið
+Svipul
+Swasthani
+Swati
+Swenet
+Syke
+Syn
+Syöjätär
+Sypave
+Syt-kul-amine
+Szélanya
+Ta-Bitjet
+Ta-Sent-Nefert
+Ta-weret
+Tabiti
+Tacoma
+Taema
+Tafner
+Tagiri-hime
+Tagitsu-hime
+Tagori-hime
+Tailte
+Tailtiu
+Tait
+Taka-hime
+Takánakapsâluk
+Takannaaluk
+Takimono-hime
+Takuhatachiji-hime
+Takursh Mana
+Tala
+Talakin
 Talaya
 Talaya bat Rab
 Tallay
 Talliya
+Tamagushi-hime
+Tamakushi-hime
+Tamar
+Tamayori-hime
+Tamfana
+Tanabata-tsume
+Tanenet
 Tanit
-Ashtar-Chemosh
-Atargatis
-Atar'atheh
-Dea Syria
-Deasura
-Derketo
+Taonoui
+Taouris
+Tapati
+Tappinu
 Tar'atheh
-Baubo
-Ishtarat
-Anat
+Tara
+Tara-bosatsu
+Taranis
+Tarawa
+Taribuyayan
+Tashmetum
+Tatsuta-hime
+Taueret
+Taurt
+Tawaret
+Taweret
+Tây Vương Mẫu
+Tayet
+Taygete
+Tayt
+Taytet
+Te Anu-matao
+Te-uri
+Teakwaina Mana
+Tefnet
+Tefnut
+Tejamatsan
+Telanke
+Teleglen-Edzen
+Tellervo
+Temazcalteci
+Temet
+Tempestas
+Temtith
+Ten Ten-Vilu
+Tenenet
+Tenenit
+Tenma goddesses
+Tenshō-daijin
+Tenshō-kodaijin
+Teojusin
+Teposuruyan
+Terpsichore
+Terra
+Teteoh Innan
+Tetogolee
+Teutates
+Tewa Maiden
+Thalatte
+Thalia
+Thallo
+Thalna
+Thana
+Thánh Mẫu Liễu Hạnh
+The Morrígan
+Thebe
+Theia
+Thelxinoë
+Themath
+Themis
+Thermuthis
+Theros
+Thesan
+Thesmophoros
+Thethis
+Thetis
+Thiana
+Thiên Hậu
+Thiên Y A Na
+Thmei
+Thoeris
+Thonbanhla
+Thouéris
+Thought Woman
+Thumleima
+Thủy cung Thánh Mẫu
+Tia
+Tiamat
+Tilafaiga
+Tinjis
+Tirgus māte
+Tishya
+Tisiphone
+Tiur
+Tiv
+Tivr
+Tjenenet
+Tjenenyet
+Tjenmyt
+Tkashi-Mapa
+Tlachtga
+Tlalli Iyollo
+Tlazolteotl
+Tlitcaplitana
+Toci
+Toeris
+Tokapcup-kamuy
+Tomaiyovit
+Tonacacihuatl
+Tonantzin
+Töngyi Gyalmo
+Tootega
+Topoh
+Toshikami
+Toshitokujin
+Totolmatha
+Toutatis
+Toyotama-hime
+Toyouke-hime
+Tranquillitas
+Trebaruna
+Trebopala
+Tridevi
+Trijata
+Triple Goddess
+Tripura Sundari
+Tritonis
+Trivia
+Tséghádiʼnídíinii Atʼééd
+Tsichtinako
+Tsinatsinau
+Tskarishdida
+Tsovinar
+Tsubura-hime
+Tsumatsu-hime
+Tu-metua
+Tuart
+Tuat
+Tukwinong Mana
+Tulsi
+Tummo
+Tumu-te-ana-oa
+Tuonetar
+Tuoyalaha
+Turan
+Turquoise Woman
+Turtle Maiden
+Tusholi
+Tushpuea
+Tutela
+Tutelina
+Tűz Anya
+Twert
+Tyche
+Tzitzimitl
+U'thu Uta
+Ua-Ildak
+Uadjet
+Ubaste
+Udelnica
+Ūdens māte
+Udjo
+Uðr
+Uga Benzaiten
+Ugajin
+Uixtochihuatl
+Ukemochi
+Uksakka
+Ulfrún
+Ultio
+Uma
+Umā
+Umay
+Umugai-hime
+Un-baiusit
+Unelanuhi
+Unet
+Ungnyeo
+Unhcegila
+Uni
+Unk
+Unn
+Unnit
+Unnuit
+Unt-baiusit
+Unut
+Upes māte
+Upinė
+Upit
+Upojo Potinija
+Ur-ā
+Urania
+Uras
+Urðr
+Urit
+Urit-ȧmi-t-Ṭuat
+Urit-em-sekhemu-s
+Urit-en-kru
+Urit-hekau
+Urit-ḥekau
+Uroda
+Ursala
+Ursula
+Urthekau
+Urti-ḥethati
+Urunzimu
+Ušḫara
+Ushas
+Usiququmadevu
+Usit
+Usnisavijaya
+Uti Hiata
+Utlunta
+Uto
+Uttara Ashadha
+Uttara Bhādrapadā
+Uttara Phalguni
+Uttu
+Užsparinė
+Vāc
+Vacuna
+Vagdavercustis
+Vaiare
+Vaishnavi
+Vaishno Devi
+Vaivora
+Vajrayogini
+Vajreshwari
+Vakarė
+Vakarinė
+Vakula Devi
+Valginė
+Valli
+Vallonia
+Vammatar
+Vanadevata
+Vanadurga
+Vanth
+Vár
+Vara Lakshmi
+Varahi
+Varima-te-takere
+Varuni
+Vasavi Kanyaka Parameswari
+Vasitas
+Vasudhara
+Vecu
+Vecui
+Vecuvia
+Veenemo
+Veera Lakshmi
+Vegoia
+Veja māte
+Velekete
+Veliona
+Veliuona
+Vellamo
+Velonia
+Veļu māte
+Venilia
+Venus
+Venus Castina
+Venus Verticordia
+Verbeia
+Verðandi
+Veritas
+Verpėja
+Verpiančioji
+Vesna
+Vesta
+Vesuna
+Vete-ema
+Vica Pota
+Victoria
+Vida
+Vidya Lakshmi
+Vielona
+Vielonia
+Vijaya Lakshmi
+Vijayadurga
+Vila
+Vimala
+Vinata
+Vinayaki
+Vindhyavasini
+Viriplaca
+Virtus
+Vishākhā
+Vita
+Víz Anya
+Volla
+Volossatka
+Volumna
+Volutina
+Vör
+Wadjet
+Wah Sil
+Wah-Kah-Nee
+Wäh-trōhn-yŏ-nōh'-nĕh
+Waka
+Waka-ush Kamuy
+Wakahirume
+Wakakunitama
+Wakasa-hime
+Wala
+Wangmu Niangniang
+Warharmi
+Warrior Woman
+Waslaag
+Wasret
+Water Drinking Maiden
+Water Maiden
+Wathondara
+Wathondare
+Wauan
+Wedjat
+Wei Huacun
+Wellamo
+Wenet
+Wenut
+Wepset
+Weret Hekau
+Werethekau
+Weshellequa
+Whaitiri
+Whirling Woman
+White Maiden
+White Shell Woman
+Wida
+Winonah
+Winter Solstice Maiden
+Wiosna
+Wita
+Witsduk
+Wóȟpe
+Wongang Ami
+Wosret
+Wosyet
+Wurdiz
+Wuriupranili
+Wurunšemu
+Wusheng Laomu
+Wyrd
+Xa'a da
+Xaalajaat
+Xarpo
+Xbaquiyalo
+Xi Lingshi
+Xi Shi
+Xian Furen
+Xiangshuishen
+Xihe
+Xilonen
+Xiwangmu
+Xmucane
+Xochiquetzal
+Xpiacoc
+Xpuch
+Xquic
+Xtabai
+Xtabay
+Xtah
+Xulsigiae
+Yakshini
+Yal-un eke
+Yami
+Yamuna
+Yan Po Nagar
+Yaochi Jinmu
+Yebaad
+Yellow Corn Maiden
+Yemanjá
+Yemayá
+Yemoja
+Yeongdeung
+Yer Tanrı
+Yeshe Tsogyal
+Yhi
+Yineput
+Yogini
+Yohaulticetl
+Yohozro Wuhti
+Yonot
+Yoołgai Asdzą́ą́
+Yorozuhata-hime
+Yu Xuanji
+Yuhwa
+Yushkep Kamuy
+Zäna
+Zarich
+Zarik
+Zarni Ań
+Zeiz
+Zemes māte
+Žemės Motina
+Žemyna
+Zenenet
+Zewena
+Zhinü
+Zhiva
+Zhiwud
+Zhunti
+Zhunti Pusa
+Zhuntu Fomu
+Ziedu māte
+Ziemala mamulina
+Ziewonia
+Žiezdrė
+Zintuḫi
+Zisa
+Zislobog
+Živa
+Ziza
+Zizilia
+Zlatá Baba
+Zlota-Baba
+Zolotaya Baba
+Zonja e Bukuris
+Zorya
+Zorya Polunoshnaya
+Zorya Utrennyaya
+Zorya Vechernyaya
+Zulki
+Zvezda
+Zvezda Dennitsa
+Zvezda Vechernyaya
+Žvoruna
+Zywie
+Zywye
+Zyzlila
+Þögn
+Þökk
+Þorgerðr
+Þrima
+Þrúðr
 ʼAṯirat
 ʼAttart
-Shapash
-Ušḫara
-Triple Goddess
+Αlkuónē
